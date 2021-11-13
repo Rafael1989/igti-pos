@@ -1,0 +1,192 @@
+let recipes = [];
+
+const moneyFormatter = Intl.NumberFormat('pt-BR', {
+  style: 'currency',
+  currency: 'BRL',
+});
+
+async function start() {
+  const resources = await fetch('http://localhost:3001/recipes');
+  const json = await resources.json();
+  recipes = json;
+
+  const answers = [];
+
+  answers.push(question01());
+  answers.push(question02());
+  answers.push(question03());
+  answers.push(question04());
+  answers.push(question05());
+  answers.push(question06());
+  answers.push(question07());
+  answers.push(question08());
+  answers.push(question09());
+  answers.push(question10());
+
+  for (const [index, answer] of answers.entries()) {
+    const style =
+      index % 2 === 0
+        ? 'backgroundColor: black; color: white'
+        : 'backgroundColor: black; color: orange';
+
+    console.log(
+      `%c Questão ${(index + 1).toString().padStart(2, '0')}: ${answer}`,
+      style
+    );
+  }
+}
+
+function question01() {
+  /**
+   * Questão 01: Quantas receitas existem ao todo?
+   */
+  return recipes.length;
+  //648
+}
+
+function question02() {
+  /**
+   * Questão 02: Qual é a média de preços das receitas?
+   */
+  const pricesSum = recipes.reduce((accumulator, current) => {
+    return accumulator + current.price;
+  }, 0);
+
+  return moneyFormatter.format(pricesSum/question01());
+  //R$ 50,41
+}
+
+function question03() {
+  /**
+   * Questão 03: Qual é a receita mais cara e o seu preço?
+   * Dica 01: formate o número obtido com o moneyFormatter, declarado
+   * no início deste arquivo
+   */
+  const expensiveRecipe = recipes.map(recipe => {
+      return {
+        price: recipe.price,
+        title: recipe.title
+      };
+    })
+    .sort((a,b) => {
+      return b.price - a.price;
+    });
+
+    return expensiveRecipe[0].title + ',' + moneyFormatter.format(expensiveRecipe[0].price);
+    //Simples iogurte de chuchu,R$ 99,93
+}
+
+function question04() {
+  /**
+   * Questão 04: Qual é a receita que possui mais ingredientes? Mostre também a
+   * quantidade de ingredientes desta receita
+   */
+  const recipeWithMoreIngredients = recipes.map(recipe => {
+    return {
+      ingredientsLength: recipe.ingredients.length,
+      title: recipe.title
+    };
+  })
+  .sort((a,b) => {
+    return b.ingredientsLength - a.ingredientsLength;
+  });
+
+  return recipeWithMoreIngredients[0].title + ',' + recipeWithMoreIngredients[0].ingredientsLength;
+  //Simples torta de chocolate,14
+}
+
+function question05() {
+  /**
+   * Questão 05: Liste todos os ingredientes distintos considerando todas
+   * as receitas. Liste os ingredientes separados por ', '.
+   * Dica 01: pesquise por array.flat()
+   * Dica 02: pesquise por array.join()
+   * Dica 03: pesquise por Set em JavaScript e faça a re-conversão
+   * para array com Array.from
+   */
+  var ingredients = new Set();
+  for(var i = 0; i < recipes.length; i++){
+    for(var j = 0; j < recipes[i].ingredients.length; j++){
+      ingredients.add(recipes[i].ingredients[j]); 
+    }
+  }
+  return Array.from(ingredients);
+  //abóbora,aveia,azeite,açúcar,cerveja,frango,milho,morango,vinho,calabresa,chuchu,uva,chocolate,nutella,oreo
+}
+
+function question06() {
+  /**
+   * Questão 06: existe algum ingrediente que aparece em todas as receitas?
+   * Em caso afirmativo, informe-o(os).
+   * Dica 01: reaproveite funções já implementadas
+   * Dica 02: utilize array.every
+   * Dica 03: utilize arrey.forEach
+   * Dica 04: pesquise pelo método array.includes
+   * Dica 05: pesquise pelo método array.split
+   */
+  var ingredients = question05();
+  for(var i = 0; i < recipes.length; i++){
+    for(var j = 0; j < ingredients.length; j++){
+      if(!recipes[i].ingredients.includes(ingredients[j])){
+        ingredients.splice(j, 1);
+      }
+    }
+  }
+  return ingredients;
+  //açúcar
+}
+
+function question07() {
+  /**
+   * Questão 07: Quantas receitas possuem "uva" como ingrediente?
+   * Dica 01: pesquise pelo método array.includes
+   */
+  const quantityRecipesWithGrape = recipes.filter(recipe => {
+    return recipe.ingredients.includes("uva");
+  });
+
+  return quantityRecipesWithGrape.length;
+  //359
+}
+
+function question08() {
+  /**
+   * Questão 08: Quantas receitas possuem "abóbora" e "aveia" como ingredientes?
+   * Dica 01: pesquise pelo método array.includes
+   */
+  const quantityRecipesWithPumpkinAndOats = recipes.filter(recipe => {
+    return recipe.ingredients.includes("abóbora") && recipe.ingredients.includes("aveia");
+  });
+
+  return quantityRecipesWithPumpkinAndOats.length;
+  //204
+}
+
+function question09() {
+  /**
+   * Questão 09: Um determinado cliente quer comprar 2 itens de cada receita
+   * que contenha "calabresa" com ingrediente. Quanto ele vai pagar?
+   */
+  const repipesWithPepperoniPrice = recipes.filter(recipe => {
+    return recipe.ingredients.includes("calabresa");
+  }).reduce((accumulator, current) => {
+    return accumulator + current.price * 2;
+  }, 0);
+
+  return moneyFormatter.format(repipesWithPepperoniPrice);
+  //R$ 35.250,34
+}
+
+function question10() {
+  /**
+   * Questão 10: Qual seria o faturamento bruto mensal se fossem vendidos,
+   * durante um mês, 3 itens de cada receita?
+   */
+  const grossMonthlyRevenue = recipes.reduce((accumulator, current) => {
+    return accumulator + current.price * 3;
+  }, 0);
+  return moneyFormatter.format(grossMonthlyRevenue);
+  //R$ R$ 97.991,73
+}
+
+start();

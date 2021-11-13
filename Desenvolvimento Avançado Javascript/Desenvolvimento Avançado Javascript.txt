@@ -1,0 +1,572 @@
+https://date-fns.org/docs/Getting-Started
+https://axios-http.com/docs/intro
+https://www.chartjs.org/docs/latest/
+https://lodash.com/docs/4.17.15
+
+Biblioteca: Lodash
+
+Aplicabilidade: Interação em arrays, objetos e strings. Composição de funções.
+
+Justificativa: A biblioteca possui funções úteis que possibilita a manipulação de objetos e funções, tornando o código menos verboso e acelerando o desenvolvimento das aplicações.
+
+Biblioteca: D3.js
+
+Aplicabilidade: Visualização de dados de forma dinâmica.
+
+Justificativa: A biblioteca possui funções úteis para a construção de gráficos e apresentação de dados de forma interativa. É possível até fazer um mapa de algum país, e com base nesse mapa explorar algum tipo de informação.
+Biblioteca: MelonJS
+
+Aplicabilidade: Biblioteca para criação de jogos.
+
+Justificativa: A biblioteca foi desenvolvida para criação de jogos em javascript e está sendo utilizada para publicação dos jogos no Facebook e Play Store.
+Biblioteca: Modernizr
+
+Aplicabilidade: Verificação de compatibilidade do browser com funcionalidades do HTML 5.
+
+Justificativa: Permite fazer um teste para verificar se o browser possui suporte à funcionalidade e realizar o carregamento de um script JavaScript alternativo, caso não possua.
+Biblioteca: ApexCharts
+
+Aplicabilidade: Criação de gráficos.
+
+Justificativa: É uma biblioteca bem interessante para criar gráficos de diferentes tipos (coluna, barra, linha etc) e que é bem fácil de aplicar.
+
+Biblioteca: Mootools
+
+Aplicabilidade:  Bastante compacto e orientado a objetos, crowss-browser
+
+Justificativa: Visa facilitar a vida do desenvolvedor, tornando mais simples algumas das ações mais comuns como acesso ao DOM, estilização dinâmica de elementos e requisições.
+
+Biblioteca: fullPage.js
+
+Aplicabilidade: é uma biblioteca open source que ajuda a criar full-screen scrolling websites
+
+Justificativa:  há muitas opções de customização, possui 30k estrelas no GitHub, além disso você pode usar essa biblioteca com React, Vue e Angular. Simples de usar.
+Biblioteca: Ant Design of React
+
+Aplicabilidade: Componentes de alta qualidade para construção de interfaces interativas para o usuário.
+
+Justificativa: Padroniza e acelera a criação de paginação e formulários, e contém propriedade para alteração de tema. Um diferencial é que disponibilizaram diversos designs no sketch para comunidade.
+
+Biblioteca: Moment.js
+
+Aplicabilidade: Apresentação e manipulação de várias de tempo em javascript.
+
+Justificativa: Oferece um arsenal de recursos úteis para a manipulação facilitada de datas e outras métricas de tempo.
+
+https://momentjs.com/docs/
+Biblioteca: jQuery
+
+Aplicabilidade: "Escreva menos, faça mais".
+
+Justificativa: A biblioteca possui funções úteis de simplificação de códigos nativos, criação de animações, adição de event handlers e facilitação de chamadas Ajax.
+
+
+Biblioteca: Babel
+
+Aplicabilidade: Converter o código ECMAScript 2015+ em uma versão compatível com versões anteriores do JavaScript.
+
+Justificativa: O Babel conta com arquivos de configuração detalhados para obter a compilação, portanto pode apresentar uma curva de aprendizado um pouco íngrime para desenvolvedores iniciantes.
+
+Biblioteca: ReactJS
+
+Aplicabilidade: Criação de interface para usuário
+
+Justificativa: Biblioteca que dá uma gestão total do DOM e de iteração com o usuário.  Com ela é possível criar N componentes para seu projeto e também reutilizá-los e diversas partes da sua aplicação sem te que criá-lo novamente. Rápida atualização do DOM com base no DOM Virtual criado por ela. 
+Biblioteca: Own Carousel
+
+Aplicabilidade: Ajuda na criação de carrossel.
+
+Justificativa: Owl é um dos plug-ins de carrossel mais recomendados já criados para jQuery. É compatível com telas sensíveis ao toque e dispositivos apontadores. Ele suporta deslizar e arrastar e soltar. É totalmente personalizável e responsivo por padrão.
+Biblioteca: Tensorflow.js
+
+Aplicabilidade: Desenvolver modelos de Machine Learning usando JavaScript.
+
+Justificativa: A área de inteligência artificial/machine learning vem crescendo exponencialmente. O tensorflow.js serve para você poder criar modelos usando Javascript, além de fornecer diversas APIs pra você usar no desenvolvimento.
+Biblioteca: Axios
+
+Aplicabilidade: É um cliente HTTP baseado em Promises para fazer requisições. Pode ser utilizado tanto no navegador quando no Node.js.
+
+Justificativa: É um projeto open source, disponível no Github, tem 77 mil stars e 7 mil forks! Muito utilizado e está sendo bem mantido pela comunidade. Com Axios podemos fazer algumas configurações básicas, criar uma baseURL para não precisarmos digitar em cada requisição o endereço do servidor, informando apenas a rota e seus parâmetros.
+Biblioteca: RxJS
+
+Aplicabilidade: biblioteca para programação reativa.
+
+Justificativa: trata-se de biblioteca que lança mão do conceito de Observables, facilitando a composição de códigos baseados em callbacks  ou assíncronos.  São ainda de grande utilidade os Pipeable Operators, Creation Operators, Filtering Operators, dentre outros.
+Biblioteca: Underscore
+
+Aplicabilidade: Biblioteca de utilidades que fornece diversas funções para tarefas típicas de programação.
+
+Justificativa: Possui mais de 100 funções baseadas em 4 diferentes tipos de dados (Objetos, Arrays, tanto Objetos como Arrays, e outras funções) que ela manipula. Também possui helpers como filtros, mapas, etc, além de funções especializadas para binding, indexação rápida, templates, testes de qualidade, entre outros.
+
+
+Biblioteca: Glimmer.JS
+
+Aplicabilidade: Aplicado em componentes Web para estilização rápida.
+
+Justificativa: é uma biblioteca JavaScript com componentes de UI e foco em rapidez e leveza para a web.
+
+Biblioteca: Anime.js
+
+Aplicabilidade: Permite tornar sua página web interativa e mais envolvente. Adicionar micro-interações e animações.
+
+Justificativa: A biblioteca possui diversas funções úteis que possibilita a manipulação do DOM, criando animações rápidas e leves no frontEnd.
+
+Biblioteca: Anime.js
+
+Aplicabilidade: Uma biblioteca de animação que, apesar de leve, permite fazer animações completas e precisas
+
+Justificativa: Você pode setar várias propriedades CSS em diferentes timings no mesmo elemento para criar a animação, e ele se move suavemente conforme a transformação da animação. A biblioteca funciona com obejtos SVG, CSS, HTML, DOM, e JS.
+Biblioteca: Faker.js
+
+Aplicabilidade: gerar uma grande quantidade de informações aleatórias
+
+Justificativa: É uma biblioteca que gera diversos tipos de informações, como nomes, endereços, nome de animais, sites, usernames, que podem ser utilizados para testar alguma aplicação frontend por exemplo ou até mesmo utilizar em conjunto com alguma API caso não tenha dados o suficiente para realizar algum teste
+Biblioteca: Paths.js
+
+Aplicabilidade: Gerar caminhos SVG.
+
+Justificativa: Permite que você crie gráficos usando uma API funcional e testável. Funciona com seu framework frontend favorito e até mesmo no lado do servidor no NodeJS.
+Biblioteca: Prototype
+
+Aplicabilidade: Assim como a jQuery, o prototype também reduz consideravelmente a quantidade de código necessário para a realização de certas tarefas comuns
+
+Justificativa: Possui suporte a Ajax bastante eficiente, além de facilitar a interação com o DOM e ser orientado a objetos, o que permite um maior nível de organização de projetos maiore
+Biblioteca: Ramda
+
+Aplicabilidade: Biblioteca construída para aplicar o estilo de programação funcional em JavaScript, facilitando a utilização de pipelines e dados imutáveis.
+
+Justificativa: Todas as funções do Ramda são auto-curried, sendo que os argumentos das funções do Ramda são organizados de forma a facilitar a utilização de currying
+Biblioteca: Dojo Toolkit
+
+Aplicabilidade: Dojo é um kit de ferramentas JavaScript grátis e de código aberto para criação de aplicações web de alto desempenho.
+
+Justificativa: Um kit de ferramentas JavaScript que economiza tempo e escala com seu processo de desenvolvimento. Fornece tudo que você precisa para construir um aplicativo da web. Utilitários de linguagem, componentes de IU e muito mais, tudo em um só lugar, projetados para funcionar perfeitamente em conjunto.
+Biblioteca: dotenv
+
+Aplicabilidade: Orquestrar variáveis de ambiente no processo da aplicação
+
+Justificativa: A biblioteca deixa a aplicação melhor parametrizável, além de seguir o Twelve-Factor App com o armazenamento da configuração separada do código de aplicação.
+
+
+Biblioteca: Polymer
+
+Aplicabilidade: Desenvolvida pelo Google, pode criar os elementos do site sem entrar em um nível complexo. Além disso, ele suporta vinculação de dados unilateral e bidirecional, tornando assim uma área de aplicação mais extensa.
+
+Justificativa:
+
+Polymer.js é uma biblioteca JavaScript construída sobre as APIs padrão da web que fornece a maneira mais simples de criar elementos HTML personalizados.
+Fornece polyfills para a criação de elementos personalizados e reutilizáveis. Ele é usado para a criação de widgets reutilizáveis ​​em documentos e aplicativos da web.
+Ele usa o material design do Google para desenvolver aplicativos móveis para um desenvolvimento rápido e fácil de aplicativos móveis.
+Os elementos personalizados são distribuídos pela rede e permitem que os usuários usem esses elementos com a ajuda de HTML Imports.
+Biblioteca: React
+
+Aplicabilidade: Criação de aplicações web utilizando SPA
+
+Justificativa: React é usado para ajudar a criar aplicativos da web em pequena ou larga escala, principalmente em interfaces interativas.
+Biblioteca: Drop.js
+
+Aplicabilidade: Objetos dropdown e pop-ups. 
+
+Justificativa: Biblioteca open-source que ajuda a criar itens dropdown e pop-ups mais elegantes e com animações suaves. Podem ser configurados quando o usuário clica, passa o mouse ou foca no elemento.
+
+Mais informações: https://github.hubspot.com/drop/docs/welcome/
+Biblioteca: Nebular
+
+Aplicabilidade:Nebular é uma biblioteca de UI para  aplicativos angular.
+
+Justificativa: A UI se parece bastante com o design do IOS e tem seu próprio sistema de design com tema que podem ser reutilizaveis,  tambem  fornece vários serviços e módulos para criar autenticação usando serviços de terceiros, como Azure AD, Firebase Auth, Google Auth, estratégia de Oauth, estratégia de senha etc. Isso ajuda a criar um sistema de autenticação rápido para aplicativos Angular. 
+Biblioteca: D3.js
+
+Aplicabilidade: Construção de visualizações de dados
+
+Justificativa: D3.js manipula documentos com base em seu conteúdo e mostra os dados em forma de visualizações dinâmicas e interativas usando HTML, SVG e CSS
+Biblioteca: Cleave.js
+
+Aplicabilidade: Interação em formatar o conteúdo de texto.
+
+Justificativa: Essa biblioteca possui funções úteis que possibilita a formatação de textos, visa aumentar de forma fácil a legibilidade do campo de entrada através da formatação dos dados digitados.
+Biblioteca: YUI Library
+
+Aplicabilidade: Biblioteca de conjuntos de utilitários e controles
+
+Justificativa: Escrita em javascript, a YUI Library foi construída pela Yahoo!, utilizada para aplicações web interativas e ricas,  através de técnicas como o DOM scripting, DHTML e AJAX. YUI está disponível sob uma licença BSD e é grátis para todas as utilizações.
+
+https://clarle.github.io/yui3/
+Biblioteca: Leaflet
+
+Aplicabilidade: Trabalhar com Mapas em aplicações web e mobile.
+
+Justificativa: Controles de mapa, tais como comutador de camadas, atribuição, escala e botões de zoom. Suporta navegadores como Chrome, Safari, Firefox, Edge.
+Biblioteca: MentorJS.
+
+Aplicabilidade: prototipagem rápida e código multi-plataforma (Android, iOS, Web).
+
+Justificativa: é indicado para desenvolver aplicações JavaScript que trabalhem com funcionalidades de 'tempo real, comunidades sociais e dashboards customizados'. Ou seja, o MentorJS permite o "uso do protocolo DDP (Distributed Data Protocol) para propagar as mudanças nos dados para todos os clientes do serviço em tempo real sem requerer qualquer código de sincronização específico". Além disso, ele permite a fácil integração com o MongoDB (Banco de dados NoSQL).
+
+Biblioteca: Redux
+
+Aplicabilidade: Redux é um contêiner de estado previsível para aplicativos JavaScript. Ele ajuda a escrever aplicativos que se comportam de maneira consistente, executados em diferentes ambientes (cliente, servidor e nativo) e são fáceis de testar.
+
+Justificativa: Redux é uma ferramenta de gerenciamento de estado. Embora seja usado principalmente com o React, ele pode ser usado com qualquer outra estrutura ou biblioteca JavaScript. É leve em 2 KB (incluindo dependências), para que você não precise se preocupar em aumentar o tamanho dos ativos do seu aplicativo
+
+Biblioteca: VuetifyJS (Links para um site externo.)
+
+Aplicabilidade: Biblioteca Vue de interface do usuário com componentes de material design.
+
+Justificativa: A biblioteca não requer nenhuma habilidade de design, agiliza o desenvolvimento e possui várias diretivas fáceis de utilizar. Sua documentação é bem explicativa e com exemplos práticos.
+
+Biblioteca: MathJax
+
+Aplicabilidade: Renderização de fórmulas matemáticas.
+
+Justificativa: A biblioteca possui um motor de renderização que exibe fórmulas matemáticas de maneira flexível e responsivo em qualquer browser ou dispositivo.
+
+Biblioteca: EJS - Embedded JavaScript Templating
+
+Aplicabilidade: Biblioteca simples para geração de html utilizando javascript.
+
+Justificativa: A biblioteca possibilita a criação dinâmica de páginas html através de templates. Essa biblioteca é utilizada na empresa que trabalho para geração de PDF dinâmicos conforme as parametrizações e escolha de layout de empresas parceiras.
+
+Biblioteca: jQuery
+
+Aplicabilidade: Manipulação de DOM, CSS, eventos HTML, AJAX entre outros.
+
+Justificativa: jQuery é uma biblioteca antiga, mas ainda usada em muitos projetos, que simplificam o código Javascript. Transformando muitas linhas de código em apenas uma. Desde chamadas AJAX a manipulações de DOM.
+
+Biblioteca: Nodemailer.
+
+Aplicabilidade: Envio de emails tanto em produção como em desenvolvimento (utilizando Ethereal como um SMTP fake para testes).
+
+Justificativa: A biblioteca é extremamente customizavel e contém todos os recursos necessários para envio de emails com segurança, autenticação, anexos, conteúdo em HTML e etc, tudo sem possuir nenhuma dependência.
+
+
+
+Biblioteca:jQuery
+
+Aplicabilidade: Simplificação de códigos nativos da linguagem que geralmente são mais extensos.
+
+Justificativa: A  jQuery é a biblioteca sobre a qual foi desenvolvida a maior quantidade de plug-ins e outras biblioteca, incluindo a jQuery Mobile e a jQueru UI
+
+Biblioteca: Axios
+
+Aplicabilidade: Cliente HTTP baseado em promises para requisições.
+
+Justificativa: A biblioteca possui funções úteis para requisições, faz requisições HTTP no node, interceptação de request e response, suporta API de promises, converte os dados automaticamente para JSON
+
+Biblioteca: SYNAPTIC
+
+Aplicabilidade: Redes Neurais com Javascript.
+
+Justificativa: Desenvolvida pelo MIT, esta biblioteca possui uma série de recursos para quem precisa usar as Redes Neurais em projetos desenvolvidos com base em Javascript.
+
+Link: http://caza.la/synaptic/
+
+Biblioteca: Chart.js
+
+Aplicabilidade: Auxilia na criação de gráficos JavaScript simples, mas flexíveis para designers e desenvolvedores.
+
+Justificativa: A biblioteca possui uma excelente forma de utilização através do JavaScript, conseguindo criar 8 tipos de gráficos ótimos, com aspectos bonitos e responsivos, compatível com todos os browsers modernos.  Para conhecer mais acesse: https://www.chartjs.org/
+
+Biblioteca: Lodash
+
+Aplicabilidade: Lodash (Links para um site externo.) é também uma biblioteca utilitária do JS que facilita o trabalho com números, arrays, strings, objetos, etc. Foi lançada em 2013 e também utiliza o projeto de programação funcional como Underscore.js.
+
+Justificativa: Ele ajuda você a escrever códigos JavaScript concisos e de fácil manutenção, é mais simplifica tarefas comuns tais como operações matemáticas, encadernação, estrangulamento, decoração, restrição, debounce, etc. Suas  funções strings como corte, CamelCase e caixa superior são mais simples. A criação, modificação, compressão e classificação de matrizes. Outras operações sobre a coleta, objeto e seqüência.
+
+Biblioteca: date-fns
+
+Aplicabilidade: Formatação de data, operações com datas, ajuste de timezone.
+
+Justificativa: A biblioteca possui funções interessante que facilitam o trabalho com datas. É possível converter texto em data e vice-versa, ajustar timezone de datas, incrementar dias e horas a uma determinada data etc.. São várias funções interessantes, é uma boa opção para substituir o momentJS.
+
+Biblioteca: ArcGIS JavaScript (Links para um site externo.)
+
+Aplicabilidade: Biblioteca Opensource utilizada para criação de mapas 2 e 3D e para realização de análises espaciais integradas ao ArcGIS Enterprise ou ArcGIS Online.
+
+Justificativa: Utilizo no dia a dia do meu trabalho. Possui todas as ferramentas necessárias para criação das visualizações que o cliente precisa com simbologias 2 e 3d. Além das questões de visualização também é possível utilizar a biblioteca para realização de Geocodificação e Geocodificação Reversa  e outras análises. Também é possível integrar com frameworks/bibliotecas, como Angular, Vue e React.
+
+
+Biblioteca: ApexCharts
+
+Aplicabilidade: Gráficos Modernos e bonitas visualizações
+
+Justificativa: Integrar visualizações com ApexCharts é simples com extensos documentos de API e muitas amostras a serem usadas, é licenciado pelo MIT e é gratuito para uso em aplicativos comerciais.
+
+Biblioteca: ClassNames
+
+Aplicabilidade: Ajuda entender melhor a lógica do código, deixando mais claro
+
+Justificativa: Recentemente passei usa-la, pois estava criando muitos IF ternários dentro de Tags, começando a ficar confuso ate mesmo para mim.
+
+Exemplo sem a lib: 
+
+<div className={`question ${isAnswered ? 'answered' : ''} 
+${isHighlighted ? 'highlighted' : ''}`}></div>
+Exemplo com a Lib: 
+<div
+ className={cx(
+  'question',
+  { answered: isAnswered },
+  { highlighted: isHighlighted && !isAnswered }
+  )}
+>
+
+Biblioteca: date-fns
+
+Aplicabilidade: manipulação de datas em javascript.
+
+Justificativa: Biblioteca super leve (ao contrário do moment.js) e super simples para manipulação de datas. Segue a documentação: https://date-fns.org/docs/Getting-Started
+
+Biblioteca: Next.js
+
+Aplicabilidade: É uma estrutura da web de desenvolvimento front-end React de código aberto criada por Vercel que permite funcionalidades como renderização do lado do servidor e geração de sites estáticos para aplicativos da web baseados em React.  em arrays, objetos e strings. Composição de funções.
+
+Justificativa: Para realizar prototipações de aplicativos/plataformas de uma maneira fácil e rápida, sem necessidade de publicação em AppStores.
+
+Biblioteca: Three.js
+
+Aplicabilidade: modelagem 3D.
+
+Justificativa: Permite utilizar/aplicar modelos 3D em páginas web, abstrai a utilização do WebGL.
+
+Biblioteca: Omniscient (Links para um site externo.)
+
+Aplicabilidade: Fornece abstração de componentes Reagir para uma rápida renderização de cima para baixo que abraça dados imutáveis.
+
+Justificativa: Esta biblioteca pode ajudar você a construir seu projeto sem problemas, pois é otimizado e oferece características interessantes
+
+Características/Benefícios:
+
+Memoriza os componentes da Reação sem Estado.
+Programação funcional para as interfaces de usuário.
+Renderização de componentes de cima para baixo.
+Suporta dados imutáveis usando o Immutable.js.
+
+Biblioteca: Recoil
+
+Aplicabilidade: Gerenciamento e compartilhamento de estados para React
+
+Justificativa: O Recoil oferece recursos para compartilhamento de estados dentro da arquitetura do React e simplifica operações em que, apesar do React oferecer de forma nativa, são mais difíceis gerenciar ou que precisa de muito código. Evita aninhamento e transmissão de estado através da hierarquia de componentes, e possibilita armazenar múltiplos dados onde o ContextAPI acaba não comportando ou forçando a gerar muito código pra lidar com uma única informação.
+
+
+Mais informações: https://recoiljs.org/ (Links para um site externo.) 
+
+Biblioteca: Babel
+
+Aplicabilidade: Utilizada para converter o código ECMAScript 2015+ atual em versões antigas da linguagem Javascript.
+
+Justificativa: É uma ferramenta importante para fornecer compatibilidade dos novos recursos do Javascript, podendo ser utilizado em qualquer navegador,
+além de ter suporte a vários plugins, polyfills e babel-cli, o que facilita o trabalho em grandes projetos.
+
+Biblioteca: Axios
+
+Aplicabilidade: Cliente para requisições HTTP baseado em Promises. Utilizado diretamente no Client(navegador) quando no Node.js (servidor).
+
+Justificativa: Projeto open source e disponível no Github! Muito utilizado e está sendo bem mantido pela comunidade. O Axios fornece uma API fácil de usar em um pacote compacto para a maioria das necessidades de comunicação HTTP
+
+Biblioteca: Voca (Links para um site externo.)
+
+Aplicabilidade: Funções úteis que facilitam a manipulação de String.
+
+Justificativa: Fornece o conjunto completo de funções para manipular, cortar, formatar e consultar strings. Devido a sua estrutura modular, toda a biblioteca ou suas funções individuais se carregam rapidamente, reduzindo ao mesmo tempo a construção do aplicativo. Pode ser usada em múltiplos ambientes como Node.js, Webpack, Rollup, Browserify, etc.
+
+Biblioteca:
+
+Bideo.js
+
+ 
+
+Aplicabilidade:
+
+incorporar vídeos em tela cheia ao fundo do seu site.
+
+ 
+
+Justificativa:
+
+Adicionar um fundo de vídeo é fácil com esta biblioteca JavaScript.
+
+Esta característica parece legal em telas de diferentes escalas e tamanhos e funciona sem problemas.
+
+Os vídeos adicionados podem ser redimensionados com base no navegador utilizado.
+
+Fácil de implementar usando CSS/HTML.
+
+Biblioteca: prototype.js
+
+Aplicabilidade: Interação com elementos do DOM e suporte ao AJAX.
+
+Justificativa: A biblioteca possui adiciona extensões úteis ao ambiente de script do navegador e  permite simplificar muitas tarefas complexas envolvendo a manipulação de objetos  envolvendo as interfaces  do Ajax e do Document Object Model.
+
+Biblioteca: script.aculo.us
+
+Aplicabilidade:  implementação de efeitos visuais em páginas web.
+
+Justificativa: é uma biblioteca que permite a criação de efeitos de forma simples.
+
+Biblioteca: jQuery
+
+Aplicabilidade: Escreva menos, faça mais
+
+Justificativa: Ele “entende” que nem todos os navegadores podem possuir os mesmos recursos ou que podem ter recursos iguais, mas com nomes diferentes permitindo uma boa compatibilidade entre os browsers.
+
+Biblioteca: Simple-Excel-to-json
+
+Aplicabilidade: Lê um arquivo do Excel e converte em um Objeto Javascript.
+
+Justificativa: Uma biblioteca bem simples de se utilizar. Ela lê uma planilha excel e converte para um objeto javascript. Me ajudou muito  na importação de dados que estavam armazenados em planilhas. 
+
+Link da Biblioteca: https://www.npmjs.com/package/simple-excel-to-json (Links para um site externo.)
+
+
+
+Biblioteca: OpenUI5
+
+Aplicabilidade: Biblioteca/framework de frontend para desenvolvimento de aplicações web "enterprise-ready"
+
+Justificativa: Robusto framework JavaScript para desenvolvimento frontend. Possui uma vasta biblioteca de classes e métodos para criar aplicações web completas voltadas para empresas. Link: https://openui5.org/
+
+Biblioteca: WebVR
+
+Aplicabilidade: Simplifica a implementação de realidade virtual nas aplicações.
+
+Justificativa: Aplicações em realidade virtual estão em alta no momento e a utilização dessa biblioteca acelera as entregas.
+
+Biblioteca: Zepto.js
+
+Aplicabilidade: A Zepto é uma biblioteca JavaScript minimalista para navegadores modernos com uma grande compatibilidade com a API do jQuery.
+
+Justificativa: Oferece recursos da API da JQuery mas ocupa apenas uma pequena fração de tamanho (9k). Além disso, ele tem uma montagem modular, para que você possa torná-lo ainda menor se você não precisar da funcionalidade de módulos extras, por exemplo. Mesmo o novo e simplificado jQuery 2.0 atinge um peso de 84k.
+
+ Biblioteca: ExpressJs
+
+Aplicabilidade: Rápido desenvolvimento de aplicativos baseado em acenos e criação de APIs REST.
+
+ 
+
+Justificativa: Express.js é uma estrutura back-end do JS para o desenvolvimento de aplicativos web. É uma estrutura web rápida e minimalista do Node.js que vem com uma série de recursos úteis.
+
+É Escalável e leve. Permite o recebimento de respostas HTTP, permitindo a criação de middleware. Apresenta uma tabela de roteamento para tomar ações baseadas na URL e no método HTTP. Inclui renderização dinâmica de páginas HTML.
+
+Biblioteca: jQuery
+
+Aplicabilidade: Vantagem dessa biblioteca está na simplificação de códigos nativos da linguagem que geralmente são mais extensos
+
+Justificativa: Essa biblioteca possui algumas expressões que facilitam o uso e ao final diminuem bastante a quantidade de codigo escrito ao se desenvolver aplicações
+exemplo :
+
+//Sem jQuery
+var campo = document.getElementById(“meuCampo”);
+//Com jQuery
+var campo = $(“meuCampo”);
+
+Transpilador: Babel
+
+Aplicabilidade: Permite que se trabalhe com as novas especificações Javascript, convertendo-as para as versões antes amplamente aceitas pelas navegadores dos usuários
+
+Justificativa: Permitir a evolução e adoção de novas funcionalidade e facilidades do Javascript sem correr o risco de "quebra" no ambiente do usuário
+
+Link com mais informações: O que é Babel? | Blog TreinaWeb
+
+Biblioteca: Glimmer
+
+Aplicabilidade: Componente web, Renderização DOM.
+
+Justificativa: Apresenta componentes leves e rápidos de IU. Ele usa o poderoso Ember CLI e pode trabalhar com o EmberJS como um componente.Pode ser usado como um componente autônomo ou adicioná-lo como um componente web em aplicativos existentes.
+
+
+Biblioteca: Granim.js
+
+Aplicabilidade:
+
+Criar animações de gradiente sob uma forma específica usando uma máscara de imagem.
+Criar animações de gradiente que respondam aos eventos.
+Justificativa: biblioteca JS que ajuda você a criar animações fluidas e interativas de gradiente. Desta forma, você pode fazer com que seu site se destaque com fundos coloridos.
+
+Biblioteca: Jquery
+
+Aplicabilidade: Praticidade ao programar em javascript
+
+Justificativa: A jQuery está entre as mais utilizadas (se não a mais utilizada) bibliotecas JavaScript. Atualmente, quando se requisita que um profissional conheça/domine JavaScript, geralmente a jQuery está incluída.
+
+Sob o lema “escreva menos, faça mais” (write less, do more), o forte dessa biblioteca está na simplificação de códigos nativos da linguagem que geralmente são mais extensos. 
+https://www.devmedia.com.br/top-5-bibliotecas-javascript-que-voce-precisa-conhecer/27681
+
+
+
+Biblioteca: Axios
+
+Aplicabilidade: O Axios funciona como um cliente HTTP, capaz de efetuar requisições para serviços e tratar seus retornos de maneira simples e funcional.
+
+Justificativa: Entre os clientes HTTP disponíveis no mercado, o Axios possui a sintaxe mais simples, além disso,  é possível realizar requisições complexas no Axios com bastante abstração.
+
+Biblioteca: react-redux
+
+Aplicabilidade:  Gerenciar o estado de sua aplicação que é mantido em uma store, e cada componente pode acessar qualquer estado de que precisar a partir desta store.
+
+Justificativa: Ao usar Redux com React, os estados não precisarão mais ser elevados. Isso torna mais fácil rastrear qual ação causa qualquer alteração. Componentes não precisam fornecer nenhum estado ou método para seus componentes filhos compartilharem dados entre si. Tudo é tratado pela Redux. Isso simplifica muito o aplicativo e facilita sua manutenção. 
+
+Biblioteca: Granim.js
+
+Aplicabilidade: Criação de animações de gradientes fluídas e interativas
+
+Justificativa: A biblioteca facilita muito a implementação de animações com gradientes de cores, com vários métodos de controle e uma variedade boa de opções. É interessante para criar fundos com destaque e também pode ser utilizada em imagens.
+
+Biblioteca: jQuery 
+
+Aplicabilidade: biblioteca de funções JavaScript que interage com o HTML
+
+Justificativa: A biblioteca possui funções úteis que possibilita a criação e manipulação de eventos em sua página web de maneira mais simples tornando a página mais interativa com menos esforço de código.
+
+ 
+Biblioteca: Ramda
+
+Aplicabilidade: Biblioteca para programação funcional
+
+Justificativa: A biblioteca possui de programação funcional, tais como curry e reduce
+
+Biblioteca: Phaser
+
+Aplicabilidade: Phaser é um dos motores de jogo JavaScript mais recentes e, sem dúvida, uma verdadeira promessa. Ele é projetado para que os jogos possam ser executados em computadores e dispositivos móveis.
+
+Justificativa: Ela foi criada para rodar nos principais navegadores desktops. Isso inclui o Internet Explorer 9 pra cima, Firefox, Chrome e Safari. Versões anteriores ao IE9 não suportam canvas, então você vai precisar de outra ferramenta que de suporte a renderização do DOM para então utilizar o Phaser
+
+Biblioteca: jexcel
+
+Aplicabilidade: Desenvolvimento de planilhas online no estilo do microsoft excel.
+
+Justificativa: Permite implementar planilhas dinâmicas com recursos conhecidos do Excel. Deste modo pode-se implementar online webapps (para gerenciamento por exemplo) com cara da famosa ferramenta de planilhas, o que  torna a funcionalidade mais familiar para o usuário.
+
+Biblioteca:  JSTweener
+
+Aplicabilidade:  tornar os sistemas de animação muito mais padronizados, facilitando aos desenvolvedores animarem qualquer camada de apresentação de suas aplicações.
+
+Justificativa: tornar sua página web interativa e mais envolvente com recursos que envolvem micro interações  e animações diversas.
+
+Biblioteca: AngularJS
+
+Aplicabilidade:  framework para construção da interface de aplicações  
+
+Justificativa: criada e mantida pelos desenvolvedores da Google, facilita a manipulação do DOM, altamente testável, suporta cache o que reduz o custo de processamento no servidor.
+
+Biblioteca:Mootools
+
+Mootools é framework JavaScript bastante compacto e orientado a objetos, crowss-browser e que visa facilitar a vida do desenvolvedor, tornando mais simples algumas das ações mais comuns como acesso ao DOM, estilização dinâmica de elementos e requisições.
+
+Biblioteca: Omniscient
+
+Aplicabilidade: Fornece abstração de componentes React para uma rápida renderização de cima para baixo que abraça dados imutáveis.
+
+Justificativa: Esta biblioteca fornece uma programação funcional para UIs, incentiva componentes pequenos e combináveis e funcionalidade compartilhada por meio de mixins e é eficiente , definido centralmente, shouldComponentUpdate
+
+Biblioteca: mootools
+
+Aplicabilidade: Projetados para o desenvolvedor JavaScript intermediário a avançado. Ele permite que você escreva um código poderoso e flexível com suas APIs elegantes, bem documentadas e coerentes.
+
+Justificativa: MooTools é amplamente documentado e fácil de ler, permitindo que você estenda a funcionalidade para atender aos seus requisitos..
+
+Biblioteca: TensorFlow.js 
+
+Aplicabilidade: Machine learning
+
+Justificativa: Ecossistema completo acessível e com boa documentação para iniciar os estudos com machine learning.

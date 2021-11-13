@@ -1,0 +1,5 @@
+https://tasafo.wordpress.com/2012/10/13/controle-de-versao-em-bd
+https://firebase.google.com/docs/firestore/rtdb-vs-firestore?hl=pt-br
+https://aeciosantos.com/2015/06/08/analise-de-dados-usando-elasticsearch-aggregations/.
+https://www.youtube.com/watch?v=6OFeuNy39Qg
+https://www.cockroachlabs.com

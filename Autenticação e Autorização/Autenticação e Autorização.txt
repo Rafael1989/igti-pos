@@ -1,0 +1,5 @@
+https://http.cat/
+https://httpstatusdogs.com
+https://github.com/angeloassis13/basicAuthAPIExample
+https://github.com/angeloassis13/JWTAuthAPIExample
+https://github.com/onelogin/onelogin-oidc-node/tree/master/1.%20Auth%20Flow

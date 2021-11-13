@@ -1,0 +1,9 @@
+https://github.com/sideway/joi
+https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+https://express-validator.github.io/docs/
+https://oieduardorabelo.medium.com/node-js-usando-websockets-5d642456d1f3
+https://codersdiaries.com/blog/adonisjs-vs-expressjs
+https://insights.stackoverflow.com/survey/2020
+http://tutano.trampos.co/7318-guia-de-profissoes-desenvolvedor-full-stack/
+https://medium.freecodecamp.org/typescript-and-its-types-f509d799947d
+https://www.cnbc.com/2019/01/24/smartphones-72percent-of-people-will-use-only-mobile-for-internet-by-2025.html

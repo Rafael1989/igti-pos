@@ -1,0 +1,969 @@
+Tecnologia: React
+Assunto: React Hooks.
+TL;DR: Tutorial bastante interessante com uma introdução e utilização de React Hooks como alternativa aos class componentes e function components do React, feito por Roberto Achar.
+Link completo: https://robertoachar.dev/blog/react-hooks (Links para um site externo.)
+Mês/ano: Outubro/2018
+Tecnologia: Angular.
+Assunto: What's new in Angular 11
+TL; DR: O artigo traz alguns destaques sobre as novidades que podem ser esperadas no Angular 11, abordando alguns destaque já iniciados no Angular 10
+Link Completo: https://www.infoworld.com/article/3584372/whats-new-in-angular-11.html
+Mês/Ano: Outubro/2020
+Tecnologia: React
+Assunto:  Media Queries no React com Styled Components.
+TL;DR: Tutorial ensinando como utilizar as media queries pelos devs “pra não quebrar no mobile”, por Matheus, da https://medium.com/reactbrasil (Links para um site externo.).
+Link completo: https://medium.com/reactbrasil/utilizando-media-queries-no-react-com-styled-components-f0f3160f3f01 (Links para um site externo.)
+Mês/ano: Abril/2020
+Tecnologia:js
+Assunto:Js o que é, como funciona e vantagens
+TL;DR: Tutorial bastante interessante e simples relatando uma introdução sobre Vue.Js, assim como suas funcionalidades feito por Lucas Picollo.
+Link completo:https://blog.geekhunter.com.br/vue-js-so-vejo-vantagens-e-voce/
+Mês/ano: Abril/2020
+Tecnologia: Angular
+Assunto: Angular 11.
+TL;DR: A nova versão da plataforma de desenvolvimento chegou, com foco na aceleração dos builds, melhoria nos relatório de debug e mais.
+Link completo: https://www.infoq.com/news/2020/11/angular-11/ (Links para um site externo.)
+Mês/ano: Novembro/2020
+Tecnologia: ReactJS e Javascript
+Assunto: Autenticação JWT.
+TL;DR: Tutorial sobre Navegação e Autenticação com JWT.
+Link completo: https://blog.rocketseat.com.br/reactjs-autenticacao/
+Mês/ano: Agosto/2018
+Assunto: Bê-á-bá do Angular
+TL; DR: O artigo nos traz uma visão geral e alguns tópicos mais comuns que precisamos saber para começarmos a trabalhar com o Angular, o artigo é bem interessante e possui vários links para quem deseja se aprofundar nos estudos do Framework.
+Link Completo: https://bit.ly/3gLS1Wq (Links para um site externo.)
+Mês/Ano: Setembro/2020
+Tecnologia: Angular
+Assunto: How to Structure Angular Apps in 2021
+TL;DR: Artigo descrevendo  uma maneira boa de estruturar projetos novos em Angular, explicando o cada pasta deve conter.
+Link completo: https://javascript.plainenglish.io/how-to-structure-angular-apps-in-2021-a0bdd481ad0d (Links para um site externo.)
+Tecnologia: Angular
+Assunto: CRUD Application Example with REST Web API (Em Inglês)
+TL;DR: O artigo mostra um passo a passo para criação de um CRUD com Angular 10, REST Web API e Bootstrap 4.
+Link completo: https://www.techiediaries.com/angular-10-crud-example-web-api/ (Links para um site externo.)
+Mês/ano: Ago/2020.
+Tecnologia: Angular
+Assunto: Angular - um Overview sobre o Framework
+TL;DR:  Passar uma visão geral sobre a arquitetura do Angular e suas principais diferenças com o AngularJS
+Link completo: https://blog.geekhunter.com.br/um-overview-sobre-o-framework-angular/
+Mês/ano:Feveiro /2021
+Tecnologia: Vue
+Assunto: Why Vue is the best framework for 2021 (and beyond)
+TL;DR: Artigo bem interessante sobre VueJs e o porquê ele é a melhor escolha de framework frontEnt para utilizar.
+Link completo: https://www.vuemastery.com/blog/why-vue-is-the-best-framework-for-2021-and-beyond (Links para um site externo.)
+Mês/ano: Abril/2021
+Tecnologia: React
+Assunto: Why You Should Use React.js For Web Development
+TL;DR: Nesse artigo, o autor Suraj Surve, faz uma breve introdução ao React.js e explica vários pontos de porque o React.js é a melhor biblioteca para desenvolvimento web. Entre alguns benefícios estão: Performance, flexibilidade e o suporte da comunidade.
+Link completo: https://www.freecodecamp.org/news/why-use-react-for-web-development/https://robertoachar.dev/blog/react-hooks (Links para um site externo.)
+Mês/ano: Fevereiro/2021
+Tecnologia: React.
+
+Assunto: Começando com React.
+TL;DR: O artigo apresenta uma abordagem introdutória sobre o React apresentando suas principais características. Além disso, ensina a criar um app de forma a explorar a estrutura básica de um projeto em React.
+
+Link completo: https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Comecando_com_React (Links para um site externo.)
+
+Mês/ano: Abril/2021.
+Tecnologia: Vue
+Assunto: Defesas usando gadgets vue
+TL;DR:  A popular estrutura JavaScript VueJS oferece recursos com sérias implicações para a segurança do site. Se você encontrar um aplicativo da web que usa o Vue, esta postagem o ajudará a identificar vetores XSS específicos do Vue criados a partir de gadgets de script, que você pode usar para explorar o alvo.
+Link completo: Evading defences using VueJS script gadgets (Links para um site externo.)
+Mês/ano: Outubro/2020
+
+Tecnologia: Vue.js
+Assunto: Material design no Vue.js.
+TL;DR: Tutorial que demonstra o framework vuetify para vue.js que possui o material design como layout para seus componentes, facilitando o desenvolvimento de front end.
+Link completo: https://hcode.com.br/blog/conheca-o-vuetify-o-framework-para-material-design-no-vue-js
+
+Tecnologia: React vs Vue
+Assunto: Por que Vue.js e não React.js.
+TL;DR: Uma pequena discussão de qual escolher React ou Vue, tem alguns dados importante desde prós e contras e nível de complexidade 
+Link completo: https://robertoachar.dev/blog/react-hooks (Links para um site externo.)
+Mês/ano: Julho/2017
+
+Tecnologia: React
+Assunto: Trabalhando com Componentização no React + Typescript.
+TL;DR: Excelente artigo orientando quando e como utilizar componentes. O autor utiliza o React, TypeScript e Styled Components para Estilização
+Link completo: https://medium.com/reactbrasil/trabalhando-com-componentiza%C3%A7%C3%A3o-no-react-typescript-e0aa8f5de5db (Links para um site externo.)
+Mês/Ano: 07/2020
+
+Tecnologia: React
+Assunto: React Hooks.
+TL;DR: Artigo abordando a feature React Hook que permite que você use estado e outras features do React sem ter a necessidade de escrever uma classe
+Link completo: https://tableless.com.br/react-hooks/?utm_source=tablelessRelatedLink
+Mês/ano: Fevereiro/2019
+
+Tecnologia: Angular
+Assunto: Um overview sobre o framework Angular
+TL;DR: Artigo muito interessante que mostra uma visão geral do framework Angular, como arquitetura, NgModules, Components, Directives, Interpolation, Dependency Injection, Angular Cli e a diferença entre o Angular e o Angular JS.
+Link completo: https://blog.geekhunter.com.br/um-overview-sobre-o-framework-angular/
+Mês/ano: Fevereiro/2021
+
+Tecnologia: Vue.Js
+Assunto: 5 Practical Examples For Learning Vue.js
+TL;DR: Demonstração prática de 5 exemplos utilizando Vue.js, existe a possibilidade de ver os códigos, bem como edita-los
+Link completo: https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-jshttps://robertoachar.dev/blog/react-hooks
+
+Tecnologia: Angular
+Assunto: Angular recommendations and good practices
+TL;DR: Matéria cita pontos importantes de boas praticas na implementação usando o framework Angular, inclusive como estruturar os pacotes.
+Link completo: https://robertoachar.dev/blog/react-hooks (Links para um site externo.)
+Mês/ano: Março/2021
+
+Tecnologia: Vuejs.
+Assunto: Novidades Vue v3.0.0 “One Piece”
+TL; DR: O artigo informa sobre as novidades da versão do Vue.js, como móodulos internos em camadas, melhorias de desempenho, Integração com Typescript aprimorada.
+Link Completo: Link completo do Artigo
+Mês/Ano: Setembro/2020
+
+Tecnologia: React.
+Assunto: Padrões em React: Provider Pattern
+TL; DR: Artigo que ensina uma ferramenta que pula a hierarquia obrigatória de passar props para cada componente
+Link Completo: https://www.infoworld.com/article/3584372/whats-new-in-angular-11.html (Links para um site externo.)
+Mês/Ano: Agosto/2017
+
+Tecnologia: React
+Assunto: Dicas e boas práticas com react.
+TL;DR: O post trás algumas dicas sobre boas práticas, desde a criação de componentes de forma simples e sua organização.
+Link completo: https://itforum.com.br/colunas/dicas-e-boas-praticas-com-react/
+
+Tecnologia: Angular
+Assunto: Angular 11 - Exemplo de CRUD com Reactive Forms
+TL;DR:  Um tutorial de uma aplicação básica em Angular 11 com Reactive Forms, que desmonstra as operações de criar, ler, atualizar e deletar em uma API JSON fake. Demonstra de uma forma bem didática uma aplicação angular.
+Link completo: https://jasonwatmore.com/post/2020/12/15/angular-11-crud-example-with-reactive-forms (Links para um site externo.)
+Mês/Ano: 12 / 2020
+
+Tecnologia: React
+Assunto: Componentes com Styled Components
+TL;DR: O  artigo mostra como utilizar styled components, como que é trabalhar com esse component, a flexibilidade e também, as vantagens e desvantagens de utiliza-ló. 
+Link completo: https://www.alura.com.br/artigos/react-componentes-com-styled-components
+Mês/ano: 8 de fev. de 2020
+
+Tecnologia: React
+Assunto: React + GitHub Pages
+TL;DR: Tutorial de como fazer deploy de uma aplicação React no Github pages
+Link completo: https://robertoachar.dev/blog/react-gh-pages (Links para um site externo.)
+Mês/ano: Janeiro/2018
+
+Tecnologia: React
+Assunto: O que é e como funciona essa biblioteca Javascript?
+TL;DR:  Uma breve explicação de como funciona o React e porque usar. 
+Link completo: https://robertoachar.dev/blog/react-hooks (Links para um site externo.) (Links para um site externo.)
+Mês/ano: Abril/2020
+
+Tecnologia: React.
+Assunto: 22 Miraculous Tools for React Developers in 2019
+TL; DR: Aqui estão 22 ferramentas que você pode usar para construir suas apps em React em 2019.
+Link Completo: https://dev.to/jsmanifest/22-miraculous-tools-for-react-developers-in-2019-4i46
+Mês/Ano: Agosto/2019
+
+Tecnologia: React
+Assunto: React Production Performance Monitoring
+TL;DR: O artigo demonstra como monitorar performance de uma aplicação react utilizando o React DevTools Profiler e como gerar apropriadamente a configuração dentro de sua aplicação para visualizar as métricas de renderização dos componentes. Artigo feito por Kent C. Dodds.
+Link completo: https://kentcdodds.com/blog/react-production-performance-monitoring (Links para um site externo.)
+Mês/ano: março/2020
+
+Tecnologia: React, Angular e Vue
+Assunto: Comparativo entre as tecnologias
+TL;DR: Artigo de fácil entendimento que contém um comparativo entre as três tecnologias quanto ao seu funcionamento, número de vagas no mercado e curva de aprendizado. 
+Link completo: https://www.codeinwp.com/blog/angular-vs-vue-vs-react/
+Março/2021
+
+Tecnologia: React
+Assunto: Como organizar projetos em React.
+TL;DR: Uma  matéria sobre como organizar a estrutura de pastas no React (onde criar os componentes, como separar os arquivos, onde tal arquivo deve estar), para facilitar sua manutenção.
+Link completo: https://imasters.com.br/front-end/como-organizar-projetos-em-react
+Mês/ano: Fevereiro/2019
+
+Tecnologia: Angular
+Assunto: One-way e Two-way Data Binding.
+TL;DR: Artigo sobre a diferença entre One-way e Two-way Data Binding e como a utilização da vinculação bidirecional torna a programação mais simples e poderosa a seus usuários.
+Link completo: https://www.pluralsight.com/guides/one-and-two-way-data-binding-angular (Links para um site externo.)
+Mês/ano: Janeiro/2019
+
+Tecnologia: React
+Assunto: React: Por que esse framework de JS é tão poderoso?
+TL;DR: Artigo muito interessante que discute as principais vantagens na utilização do React.
+Link completo: https://www.lewagon.com/pt-BR/blog/react-js-framework-javascript (Links para um site externo.)
+Mês/ano: Agosto/2020
+
+Tecnologia: Angular, React e Vue.
+Assunto: React x Vue x Angular: qual escolher?
+TL;DR: Matéria apresenta um panorama sobre as tecnologias Angular, React e Vue, abordando algumas vantagens, desvantagens e peculiaridades de cada ferramenta. Desta forma podemos começar a nos familiarizar com as caracteristicas encontradas nas diferentes linguagens. 
+Link completo: https://blog.geekhunter.com.br/react-vs-vue-vs-angular-qual-escolher/
+Mês/ano: Abril/2020
+
+Tecnologia: React
+Assunto: Comparação de performance entre Next e create-react-app.
+TL;DR: O artigo faz uma breve apresentação dos dois frameworks seguida de um detalhamento do experimento de avaliação de performance, considerando aspectos como mobilidade, localizações geográficas, consumo de API, etc. Por fim, apresenta os resultados utilizando o lighthouse.
+Link completo: https://blog.logrocket.com/next-js-vs-create-react-app/
+Mês/ano: Dezembro/2020
+
+Tecnologia: React
+Assunto: Validação de formulário.
+TL;DR: Tutorial sobre validação de form usando React
+Link completo: https://hackernoon.com/how-to-handle-form-and-validation-with-react-9v143yfs
+Mês/ano: Junho/2020
+
+Tecnologia: React
+Assunto: React Hook SWR .
+TL;DR: Tutorial interessante pois aborda uma forma de uso do React Hook SWR, onde visa uma melhor entrega de experiencia do usuário no consumo de API no Front End React .
+Link completo: https://blog.rocketseat.com.br/react-hook-swr-melhor-ux-no-consumo-de-api-no-front-end-react/ 
+Mês/ano: Setembro/2020
+
+Tecnologia: Vue
+Assunto: O que é o Vue.js?
+TL;DR: Para quem ainda está com dúvidas sobre qual tecnologia irá utilizar, este artigo aborda de uma forma simples e objetiva o porque utilizar Vue e suas vantagens e desvantagens.
+Link completo: https://www.treinaweb.com.br/blog/o-que-e-o-vue-js/
+Mês/Ano: Julho/2020
+
+Tecnologia: React
+Assunto: React Components best practices.
+TL;DR: Um resumo das melhores práticas ao lidar com componentes em React.
+Link completo: https://betterprogramming.pub/best-practices-i-wish-all-react-developers-knew-part-1-ff6cdee0666a
+Mês/ano: Fevereiro/2021
+
+Tecnologia: React
+Assunto: Começando com React.
+TL;DR: Artigo muito interessante para quem quer entender o react, alguns casos de uso, e criação de uma app simples. .
+Link completo: https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_startedhttps://robertoachar.dev/blog/react-hooks
+Mês/ano: Fevereiro/2021
+
+Tecnologia: React
+Assunto: Como utilizar a biblioteca Framer Motion com o React.
+TL;DR: Artigo demonstra como utilizar a biblioteca de animações Framer Motion com o React, abordando de forma prática conceitos essenciais da biblioteca.
+Link completo: https://medium.com/@steven_creates/how-to-use-framer-motion-with-react-a2639b6b9b6b (Links para um site externo.)
+Mês/ano: Março/2021
+
+Tecnologia: Angular.
+Assunto: Angular Authentication With JSON Web Tokens (JWT): The Complete Guide
+TL; DR: Guia completo para autenticação em Angular com JWT, com exemplos de código de onde armazenar o token e como realizar a comunicação com o backend.
+Link Completo: https://blog.angular-university.io/angular-jwt-authentication/ (Links para um site externo.)
+Mês/Ano: jan/2021
+
+Tecnologia: Angular
+Assunto: Angular CLI: aprenda comandos matadores
+TL;DR: Este artigo demonstra diversos comandos extremamente úteis do Angular CLI na hora de criar o seu projeto Angular.
+Link completo: https://www.zup.com.br/blog/angular-cli-aprenda-comandos
+Mês/Ano: Maio/2020
+
+Tecnologia: Angular
+Assunto: Por que o Angular é um framework tão poderoso?
+TL;DR: Fala um pouco com o angular é um framework poderoso. Da uma visão geral de suas características e explica sobre algumas especificações .
+Link completo: https://www.totvs.com/blog/developers/angular/
+Mês/ano: fevereiro/2020
+
+Tecnologia: React
+Assunto: Nextjs.
+TL;DR: Lançamento de uma nova versão do NextJS, sua versão 10.2 com várias funcionalidades importantes. O foco maior da nova versão está em performance, tanto no desenvolvimento quanto nas aplicações.
+Link completo: https://nextjs.org/blog/next-10-2 (Links para um site externo.)
+Mês/ano: Maio/2021
+
+Tecnologia: Vue
+
+Assunto: Conheça as novas funcionalidades do Vue 3
+
+TL;DR:  Além da Composition API, que é a maior e mais nova API do Vue 3, também podemos encontrar muitas melhorias menores. Podemos ver que o Vue está caminhando para uma melhor experiência de desenvolvimento e uma API mais simples e intuitiva. Também é bom ver que a equipe do Vue decidiu adotar muitas idéias que estão disponíveis atualmente apenas através de bibliotecas de terceiros para o núcleo do framework.
+
+Link completo:  https://dev.to/codecasts/conheca-as-novas-funcionalidades-do-vue-3-o2g (Links para um site externo.)
+
+Mês/ano: janeiro/2020
+
+Tecnologia: React
+Assunto: React Hook SWR - Melhor UX no consumo de API no Front End React
+TL;DR: Este é um artigo bem interessante que trás algumas informações sobre o React Hook SWR, na qual é uma ferramenta utilizada por meio de uma requisição ao back end que trás novos dados, caso haja, recarregando a listagem com estes dados de forma que seja transparente ao usuário, deixando sua experiência mais satisfatória (UX).
+Link completo: https://blog.rocketseat.com.br/react-hook-swr-melhor-ux-no-consumo-de-api-no-front-end-react/
+Mês/ano: setembro/2020
+
+Tecnologia: Angular
+Assunto: Exemplo de CRUD Angular & Bootstrap.
+TL;DR: Tutorial bem didático na construção de um CRUD utilizando o Angular e também o Bootstrap. Autor: Hardik Savani
+Link completo:https://www.itsolutionstuff.com/post/angular-11-crud-application-exampleexample.html (Links para um site externo.)
+Mês/ano: Novembro/2020
+
+Tecnologia: VueJS
+Assunto: Authentication In Vue.js.
+TL;DR: Tutorial demonstrando como implementar autenticação com VueX. Autor: Precious Ndubueze
+Link completo: https://www.smashingmagazine.com/2020/10/authentication-in-vue-js/ (Links para um site externo.)
+Mês/ano: Outubro/2020
+
+Tecnologia: React
+Assunto: Configurando um projeto React com Typescript
+TL;DR: Tutorial interessante para configurar o React para utilizar o Typescript como linguagem de programação.
+Link completo: https://dev.to/christiantld/configurando-um-projeto-react-com-typescript-3kg#:~: (Links para um site externo.)Mês/ano: Junho/2020
+
+Tecnologia: React
+Assunto: Aplicativos famosos que utilizam react.
+TL;DR: Artigo que trás alguns exemplos de aplicativos famosos que utilizam ReactJS como o Facebook, Instagram e Nextflix e faz uma breve introdução do que é React.
+Link completo: https://brainhub.eu/library/famous-apps-using-reactjs/https://robertoachar.dev/blog/react-hooks
+
+Tecnologia: Vue
+Assunto: What’s New In Vue 3?
+TL;DR: Um tutorial "rápido" apresentando as novas funcionalidades e recursos da versão mais recente do Vue, que o torna cada vez mais próximo ao React.
+Link completo:  (Links para um site externo.)https://www.smashingmagazine.com/2020/11/new-vue3-update/ (Links para um site externo.)
+Mês/ano: Novembro/2013
+
+Tecnologia: Angular
+Assunto: Vantagens ao utilizar o angular.
+TL;DR: Tutorial bastante interessante com uma explicação de porque utilizar o angular.
+Link completo: https://www.totvs.com/blog/developers/angular/https://robertoachar.dev/blog/react-hooks (Links para um site externo.)
+Mês/ano: 02/2020
+
+Tecnologia: VueJS.
+Assunto: Porquê o VueJS é uma boa opção
+TL; DR: O artigo traz algumas razões do porque o framework VueJS é um boa opção.
+Link Completo: https://dev.to/alexandrefreire/porque-vue-js-e-uma-boa-opcao-18a1 (Links para um site externo.)
+Mês/Ano: Agosto/2020
+
+Tecnologia: React
+Assunto: React + Material UI
+TL;DR:  Tutorial pratico de como criar uma aplicação React utilizando o famoso Material UI e ainda ajuda a deixar mais limpo o projeto utilizando somente o que vai usar da biblioteca
+Link completo: https://blog.rocketseat.com.br/react-material-ui/
+Mês/ano: Dez/2018
+
+Tecnologia: React
+Assunto: Class components VS Function components.
+TL;DR: Comparacao do uso de class components e function components no React, compara: Props, State e Lifecycle 
+Link completo: https://www.twilio.com/blog/react-choose-functional-components (Links para um site externo.)
+Mês/ano: Agosto/2020
+
+Tecnologia: React
+Assunto: React Context vs Redux.
+TL;DR: Este artigo mostra qual devemos escolher em nossos projetos: o API Context do React ou o Redux.
+Link completo: https://dev.to/ibrahima92/redux-vs-react-context-which-one-should-you-choose-2hhh (Links para um site externo.)
+Mês/ano: Janeiro/2020
+
+Tecnologia: Angular
+Assunto: RxJs.
+TL;DR: Entendendo o RxJs, os famosos Observables, no Angular 10.
+Link completo: https://jasonwatmore.com/post/2020/07/06/angular-10-communicating-between-components-with-observable-subject
+
+Tecnologia: Vue
+Assunto: Compreendendo os ganchos de ciclo de vida do Vue.js
+TL;DR: Esse artigo traz informações sobre o que são os ganchos de criação, quais hooks usar e em qual momento, já que eles permitem que você execute ações antes mesmo do seu componente ser adicionado ao DOM. e executados durante a renderização do servidor.
+Link completo: https://www.digitalocean.com/community/tutorials/vuejs-component-lifecycle-pt (Links para um site externo.)
+Mês/ano: Novembro/2020
+
+Tecnologia: React
+Assunto: Introdução sobre React
+TL;TD: Site interessante que dá uma introdução geral sobre React, mostrando o que é o React, como ele funciona, motivos para usar e um pequeno exemplo de como começar com o React.
+Link completo: https://blog.betrybe.com/desenvolvimento-web/react/ (Links para um site externo.)
+
+Tecnologia: React
+Assunto: Testes com JEST ( React Test )
+TL;DR: Tutorial bastante interessante com uma introdução e utilização de Jest, utlizando a framework JEST, para realização de teste em app feitos com React, facilita que tem versão em pt-RB. 
+Link completo: https://jestjs.io/pt-BR/docs/tutorial-react
+
+Tecnologia: React
+Assunto: Como aprender React JS e dicas de carreira
+TL;DR: Segue um guia de como e porque aprender react, mostrando seus pontos fortes e sua popularidade no mercado de tecnologia atual
+Link completo:https://blog.geekhunter.com.br/como-aprender-react/
+Mês/ano: Novembro/2020
+
+Tecnologia: Vue
+
+Assunto: Nova versão Vue 3.0.0 e suas melhorias
+
+TL;DR: Essa nova arquitetura, diferente da versão 2.0, conta com aprimoramentos nos seguintes aspectos: “módulos internos em camadas, melhorias de desempenho e integração aprimorada de typeScript”, dessa forma permitindo uma melhor capacidade de manutenção, assim gerando ao usuário final uma melhor experiencia e reduzindo o tempo de execução pela metade. Notícia postada por mundojs.com.
+
+Link Completo: https://www.mundojs.com.br/2020/09/24/novidades-vue-v3-0-0-one-piece/
+
+Mês/Ano: setembro/2020
+
+Tecnologia: React
+Assunto: MERN Application.
+TL;DR: Neste artigo, Ismail Tlemcani compartilha sua lista das principais ferramentas a serem usadas ao construir um aplicativo da web usando a pilha MERN (MongoDB, Express.js, React.js, Node.js).
+Link completo: https://hackernoon.com/best-tools-for-building-your-first-mern-application-kyq31bm (Links para um site externo.)
+Mês/ano: janieiro/2021
+
+Tecnologia: React
+Assunto: 13 of the best React JavaScript frameworks.
+TL;DR: Tutorial de como iniciar seu projeto em diversos frameworks que utilizam react.
+Link completo: https://opensource.com/article/20/1/react-javascript-frameworks (Links para um site externo.)
+
+Tecnologia: React
+Assunto: React Hooks.
+TL;DR:Dicas e boas práticas com react hooks.
+Link completo:  (Links para um site externo.)https://www.smashingmagazine.com/2020/04/react-hooks-best-practices/ (Links para um site externo.) (Links para um site externo.)
+Mês/ano: Abril/2020
+
+Tecnologia: Angular
+Assunto: Paginação no Angular Server-side  com ngx-pagination.
+TL;DR: Artigo de simples didática que serve de tutorial para implementação de paginação do lado do servidor (server-side) em um projeto Angular, utilizando a dependência ngx-pagination. Este artigo /blog foi escrito por Favour Vivian Woka.
+Link completo: https://blog.logrocket.com/server-side-pagination-in-angular-with-ngx-pagination/
+Mês/ano: Maio/2021
+
+Tecnologia: Vue
+Assunto: Segurança no uso do Framework
+TL;DR: Artigo explica as principais características de segurança do framework e como o desenvolvedor deve trabalhar para manter sua aplicação segura.
+Link completo: https://br.vuejs.org/v2/guide/security.html (Links para um site externo.)
+Mês/ano: maio/2021
+
+Segurança é sempre importante e é um assunto que me interessa bastante, ainda mais depois dessa LGPD...
+
+Encontrei esse artigo que fala sobre segurança no React https://upplabs.medium.com/react-js-security-best-practices-62b9a281cc42 (Links para um site externo.)
+
+E também na documentação do Angular https://angular.io/guide/security
+
+Tecnologia: Angular x React
+Assunto: I Almost Got Fired for Choosing React in Our Enterprise App
+TL;DR: Ótima reflexão sobre como a escolha da tecnologia certa para seu projeto possui muitas variáveis importantes, como o time que irá trabalhar com o projeto. O autor cita como a liberdade maior que o React oferece o tornou uma dor de cabeça para ele no projeto de uma aplicação. 
+Link completo: https://betterprogramming.pub/i-almost-got-fired-for-choosing-react-in-our-enterprise-app-846ea840841c (Links para um site externo.)
+Mês/ano: Janeiro/2021
+
+Tecnologia: Vue
+Assunto: Vantagens do Vue sobre outros frameworks
+TL; DR: Introdução e explicação de arquitetura, diretivas e ferramentas para o Vue, aprensentando também as vantagens de sua utilização
+Link Completo: https://blog.geekhunter.com.br/vue-js-so-vejo-vantagens-e-voce/l
+Mês/Ano: Julho/2020
+
+Tecnologia: React.
+Assunto: Mapas com React usando Leaflet.
+TL;DR: Tutorial que desenvolve uma aplicação web com React que faz a integração de Mapas usando Leaflet (Links para um site externo.).  Funcionalidades abordadas durante o tutorial: geolocalização, consumo de API, input com Autocomplete usando React-Select, integração com Mapas, estilização do Mapa e Marcadores.
+Link completo: https://blog.rocketseat.com.br/mapas-com-react-usando-leaflet/https://robertoachar.dev/blog/react-hooks
+Mês/ano: Nov/2020
+
+Tecnologia: React.
+Assunto: Orientações e boas práticas com React
+TL; DR: Este blog apresenta uma visão simples e clara sobre a otimização do desenvolvimento de aplicativos em React, através da simplicidade e preocupação em manutenções futuras por outros desenvolvedores.
+Link Completo: https://itforum.com.br/colunas/dicas-e-boas-praticas-com-react/
+Mês/Ano: Março/2019
+
+Tecnologia: React JS
+Assunto: Top ReactJS Development Companies in the World
+TL;DR: Artigo aborda as melhores empresas de desenvolvimento react js atualmente
+Link completo: https://www.jpost.com/special-content/top-reactjs-development-companies-in-the-world-665995
+Mês/ano: Abr/2021.
+
+Tecnologia: React 
+Assunto: Uma introdução a React Native + Typescript + Styled Component
+TL;DR:  Artigo para os iniciantes que tiveram problemas em utilizar styled components com typescript. O autor faz um breve resumo da experiência que teve e ajuda com alguns exemplos basicos de utilização da biblioteca num projeto mobile.  
+Link completo: Uma introdução a React Native + Typescript + Styled Component - DEV Community (Links para um site externo.)
+Mês/ano:  jun. de 2020
+
+Tecnologia: React
+Assunto: React Hooks.
+TL;DR:  Principais benefícios da utilização do React e porque ele deve continuar popular. Tópicos como: baixa curva de aprendizado, suporte da comunidade, entre outros.
+Link completo: https://mitechnews.com/guest-columns/benefits-of-app-development-with-react-js/ (Links para um site externo.)
+Mês/Ano: Abril, 2021
+
+Tecnologia: React
+Assunto: 15 React Best Practices You Need to Follow in 2021
+TL;DR: Matéria com dias e melhores práticas para serem seguidas usando React para se obter um código mais organizado. 
+Link completo: https://www.codeinwp.com/blog/react-best-practices/ (Links para um site externo.)
+Mês/ano: Dezembro/2020
+
+Tecnologia: React.
+Assunto: React JS: Por que esse framework frontend de Javascript é tão poderoso?
+TL; DR: O artigo  mostra as  características técnicas que torna o React tão poderoso e os benefícios que até grandes empresas passam a utiliza-lo.    
+Link Completo: https://www.lewagon.com/pt-BR/blog/react-js-framework-javascript (Links para um site externo.)
+Mês/Ano: Agosto/2020
+
+Tecnologia: Vue/React
+Assunto: Migrando de React para Vue.
+TL;DR: No artigo, o autor mostra como foi sua transição do React para o Vue, mostrando assim as principais características que diferenciam ambas tecnologias.
+Link completo:  (Links para um site externo.)https://betterprogramming.pub/a-journey-from-react-to-vue-js-cec3ba44c377 (Links para um site externo.)
+Mês/ano: Dezembro/2020
+
+Tecnologia: React
+Assunto: Entendendo a Performance do React.
+TL;DR: Post explicando a performance do React devido a API React Conciliation, responsável pela observação e gerenciamento do que se muda a cada ciclo de re-enderização, feito por Stanley Gomes com base na documentação do React Conciliation.
+Link completo: https://dev.to/stanley/entendendo-a-performance-no-react-j9h (Links para um site externo.) 
+
+
+Tecnologia: Vue
+
+Assunto: Como utilizar Vue.js e Nuxt.js para construir universal apps
+
+TL;DR: Esse artigo mostra as vantagens do Nuxt.js e de usar o Server Side Rendering (SSR), além disso, mostra como iniciar um projeto em Nuxt.
+
+Link completo: https://king.host/blog/2020/09/vue-js-e-nuxt-js/ (Links para um site externo.)
+
+ 
+
+Mês/Ano: Setembro/2020
+
+Tecnologia : Angular‌ ‌e ReactJS:
+
+Assunto:  ‌Which‌ ‌One‌ ‌Is‌ ‌ Most‌ ‌In-Demand‌ ‌Front-end‌ ‌ Development‌ ‌Framework‌ ‌in‌ ‌ 2020
+
+TL;DR: Uma breve comparação e diferenças entre Angular e React, onde são confrontados velocidade, onde deve ser utilizado, nr de usuários. 
+
+Autor: Rohan Mathawan em julho de 2020
+
+Link: https://techstory.in/angular-vs-reactjs/
+
+Tecnologia: React
+Assunto: React Hooks: Como utilizar, motivações e exemplos práticos.
+TL;DR: Artigo que explica as principais motivações para os Hooks e mostra exemplos práticos da utilização de “useState, useEffect” e “useContext”.
+Link completo: https://blog.rocketseat.com.br/react-hooks/
+Mês/ano: Dezembro/2018
+
+Tecnologia: Angular.
+Assunto:  Afinal, o que é o Angular ?
+TL; DR: O artigo traz, de forma resumida,  os principais aspectos do Angular bem como um ranking de como ele vem se destacando perante seus concorrentes no mercado de trabalho.
+Link Completo: https://blog.cedrotech.com/angular-uma-ferramenta-de-mercado
+Mês/Ano: junho/2020
+
+Tecnologia: React
+Assunto: Using state machines with XState and React
+TL;DR: Artigo que apresenta o gerenciamento de estados em aplicações React utilizando a biblioteca XState. Apresenta um tutorial passo a passo de como utilizar a biblioteca e também código exemplo no GitHub.
+Link completo: https://blog.logrocket.com/using-state-machines-with-xstate-and-react/ (Links para um site externo.)
+Mês/ano: Maio/2021
+
+Tecnologia: React
+Assunto: React Hook Form.
+TL;DR: Tutorial demonstrando o uso da lib react-use-form realizando um crud.
+Link completo: https://jasonwatmore.com/post/2020/10/09/react-crud-example-with-react-hook-form Link (Links para um site externo.)
+Mês/ano: Outubro/2020
+
+Tecnologia: React
+Assunto: Explicação sobre o React  no Next
+TL;DR: Uma explicação bastante resumida sobre as vantagens do uso do React, que é só um biblioteca, como um framework de alto desempenho e de fácil desenvolvimento.
+Link completo: https://blog.geekhunter.com.br/o-que-e-next-js/
+Mês/ano: Janeiro/2021
+
+Tecnologia: React Native 
+Assunto: Crud em App Android e IoS.
+TL;DR: Tutorial muito interessante, com o objetivo de ensinar como criar um App Android e iOS usando Reactive Native. Ensina  desenvolver um CRUD completo com a funcionalidade de gravar os dados cadastrados no próprio dispositvo..
+Link completo: https://www.luiztools.com.br/post/tutorial-crud-em-app-android-e-ios-com-react-native/ 
+Mês/ano: Agosto/2020
+
+Tecnologia: Angular
+Assunto: Comunicação entre componentes
+TL;DR: Comunicação e troca de dados entre componentes distintos utilizando BehaviorSubject com Angular
+Link completo: https://dev.to/felipedsc/behaviorsubject-para-comunicacao-entre-componentes-3kpj (Links para um site externo.)
+Mês/ano: Julho/2019
+
+Tecnologia: Angular
+Assunto: Angular: Conhecendo Ivy
+ (Links para um site externo.)
+TL;DR:  O artigo traz as principais novidades sobre o novo "motor" de render  que foi lançado a partir da versão do angular 8, e comparativos de desempenho com versões anteriores além de falar sobre os diferentes modos de compilação do angular.
+Link completo: https://medium.com/xp-inc/angular-conhecendo-ivy-123aa76e7755 (Links para um site externo.)
+Mês/ano: Julho/2019
+
+Tecnologia: React
+Assunto: Obtendo o status de progresso do envio de dados com Axios
+TL;DR: Tutorial bastante interessante sobre como obter o progresso de cada requisição HTTP feita através do método POST, utilizando o Axios.
+Link completo: https://blog.rocketseat.com.br/obtendo-o-status-de-progresso-do-envio-de-dados-com-axios/
+Mês/ano: Setembro/2020
+
+Tecnologia: Vue.JS
+Assunto: Porque Vue.JS é uma boa opção?
+TL;DR: O artigo elenca os motivos à favor do Vue.JS para o desenvolvimento de projetos.
+Link completo: https://dev.to/alexandrefreire/porque-vue-js-e-uma-boa-opcao-18a1 (Links para um site externo.)
+Mês/ano: Agosto/2020
+
+Tecnologia: React
+Assunto: React-Leaflet.
+TL;DR: Tutorial bastante interessante que mostra o passo-a-passo de como utilizar React-Leaflet(uma alternativa ao uso do Google Maps e MapBox) dentro de um projeto React, feito por Leigh Halliday.
+Link completo: https://blog.logrocket.com/how-to-use-react-leaflet/ (Links para um site externo.)
+Mês/ano: Janeiro/2020
+
+Tecnologia: Angular, React e Vue.
+Assunto: Angular vs. React vs. Vue: Which Framework is Best in 2021?
+TL; DR: O artigo traz comparações entre às três principais ferramenta de desenvolvimento fornt-end. De forma simplista fala de suas arquiteturas, qual tipo de projeto se deve utilizar cada uma, a produtividade na utilização do dia-dia, alguns dois benefícios nas comparações entre elas, e por último fala sobre a curva de aprendizado, e suas respectivas comunidade.
+Link Completo: https://dzone.com/articles/angular-vs-react-vs-vue-which-framework-is-best-to
+Mês/Ano: Mar/2021
+
+Tecnologia: Angular
+Assunto: Angular Tutorial for Beginners: Learn Angular & TypeScript.
+TL;DR: Tutoria para iniciantes bem didático com todas as etapas de um projeto angular
+Link completo:Angular Tutorial for Beginners: Learn Angular & TypeScript (Links para um site externo.)
+Mês/ano: junho/2019
+
+Tecnologia: Angular.
+Assunto: What's Angular
+TL; DR: O artigo traz de uma forma resumida e simples  oque seria  angular e como ele é utilizado , assim como suas vantagens.
+Link Completo: https://www.hostinger.com/tutorials/what-is-angular
+Mês/Ano: Dezembro/2019
+
+Tecnologia: React
+Assunto: SoftSwiss muda seu frontend para React.
+TL;DR: SoftSwiss que é uma empresa que fornece software de jogos e pagamentos para jogos online, muda seu frontend para react, prometendo um funcionamento mais rápido e versátil para melhor experiência de usuário
+Link completo: https://igamingbusiness.com/company-news/softswiss-moves-to-reactjs-for-frontend-development/ (Links para um site externo.)
+Mês/ano: Abril/2021
+
+Tecnologia: React
+Assunto: Criando a sua primeira aplicação web com react.
+TL;DR: .Para os programadores que estão começando esse artigo ajuda muito no entendimento da matéria. 
+Link completo: https://tableless.com.br/criando-sua-primeira-aplicacao-web-com-react/
+Mês/ano: fevereiro/2017
+
+Tecnologia: Angular.
+Assunto: Por que o Angular é um framework tão poderoso?
+TL; DR: A produtividade, permitindo ao desenvolvedor quebrar o código em partes, utilizando componentes, módulos e outras funcionalidades. Essa estrutura torna o ambiente de desenvolvimento mais organizado, e é chamado de diagrama de aplicação Angular
+Link Completo: https://www.totvs.com/blog/developers/angular/ (Links para um site externo.)
+Mês/Ano: Fevereiro/2020
+
+Tecnologia: Angular
+Assunto: Plusieurs améliorations pour la release candidate d'Angular 12
+TL;DR: O artigo fala sobre o candidato a lançamento do Angular 12, com produção prevista para maio, que traz melhorias em desempenho, compilação, validação de formulário, serviço de linguagem aprimorado e muito mais.
+Link completo: https://www.lemondeinformatique.fr/actualites/lire-plusieurs-ameliorations-pour-la-release-candidate-d-angular-12-82757.html (Links para um site externo.)
+ (Links para um site externo.)Mês/ano: Abril/2021
+
+Tecnologia: React
+Assunto: React Components & Props
+TL;DR: Uma rápida explicação do uso de Class components e  Function components, abordando construtores e props.
+Link completo: https://www.mundojs.com.br/2020/10/02/o-que-sao-react-components-props/https://robertoachar.dev/blog/react-hooks
+Mês/ano: Outubro/2020
+
+Tecnologia: React
+Assunto: Class Component VS Function Component with Hook
+TL;DR: Tutorial mostrando as diferenças entre Class Component e Function Component com Hooks. A desenvolvedora mostra basicamente um mesmo exemplo de aplicacação usando os dois diferentes métodos. Também achei interessante ler os comentários ao final do artigo.
+Link completo:  https://dev.to/danielleye/react-class-component-vs-function-component-with-hooks-13dg (Links para um site externo.)
+Mês/ano: Janeiro/2020
+
+Tecnologia: React
+Assunto: Reduzir o tempo de carregamento de aplicações com React
+TL;DR: Otimização do carregamento de aplicações react com a medição através do devtools, atualizações, divisões de código, redução de renderização desnecessárias, entre outras ações.
+Link completo: https://www.infoq.com/br/articles/reduce-react-load-time/
+Mês/ano: Fevereiro/2020
+
+Tecnologia: Vue.JS
+Assunto: Porque o Vue.JS é uma ótima opção para projetos.
+TL;DR: Artigo interessante exaltando as características do Vue.JS e seus benefícios em relação as demais tecnologias disponíveis no mercado que fazem concorrência com esse Framewok.
+Link completo: https://dev.to/alexandrefreire/porque-vue-js-e-uma-boa-opcao-18a1 (Links para um site externo.) (Links para um site externo.)
+Mês/ano: Agosto/2020
+
+Tecnologia: Vue
+Assunto: Bibliotecas de componentes Vue.
+TL;DR: Lista de 15 bibliotecas de componentes ou frameworks em Vue (alguns também disponiveis para Angular e React), que facilitam a vida para criar interfaces aos usuários, como o Bootstrap-Vue.
+Link completo: https://www.codeinwp.com/blog/vue-ui-component-libraries/ (Links para um site externo.)
+Mês/ano: Outubro/2020
+
+Tecnologia: React
+Assunto: Gráficos.
+TL;DR: Tutorial com diversos exemplos de código para vizualização de dados com Chart.js e React.
+Link completo: Chartjs tutorial with React — Nextjs with examples (Links para um site externo.)
+Mês/ano: Junho/2020
+
+Tecnologia: Angular
+Assunto: O que é o Angular e para que serve?
+TL;DR: Uma explicação sobre o que é o angular, suas características e também sobre o mercado de trabalho para essa tecnologia. Um ótimo artigo para quem quer conhecer o Angular.
+Link completo: https://www.treinaweb.com.br/blog/o-que-e-o-angular-e-para-que-serve/
+
+Tecnologia: React
+Assunto: What a React developer needs to know in 2021
+TL;DR: React is built on the basis of JavaScript. First of all, people who want to learn React need to understand how well they know JavaScript itself.
+Link completo:https://dev.to/ra1nbow1/what-a-react-developer-needs-to-know-in-2021-3agj (Links para um site externo.) (Links para um site externo.)
+Mês/ano: MAR/2021
+
+Tecnologia: React
+Assunto: React Functional Components VS Class Components.
+TL;DR: Ao começar no React você ira se deparar com duas estruturas, Functional components e Class components, o que anteriormente a diferença era clara, um stateless e outro statefull, agora não mais. Com a entrada do react hooks isso mudou e a diferença entre os dois começaram a ficar não tão claras. Este artigo então mostra oque atualmente tem de diferença entre esses dois tipos de estrutura no react.
+Link completo: https://flatlogic.com/blog/functional-components-vs-class-components-in-react-js/ (Links para um site externo.)
+Mês/ano: Jan/2021
+
+Tecnologia: Vue
+Assunto: Vue.js: framework javascript para criar interfaces interativas!
+TL;DR: Publicação apresenta uma visão geral do que é o framework e nas ferramentar utilizadas no Vue.js, feito por Caio Noleto.
+Link completo: https://blog.betrybe.com/framework-de-programacao/vue-js/ (Links para um site externo.)
+Mês/ano: Setembro/2020
+
+Tecnologia: React
+Assunto: React Clean Code
+TL;DR: Maneiras simples de escrever melhor e ter um código mais limpo.
+Link completo: https://dev.to/thawkin3/react-clean-code-simple-ways-to-write-better-and-cleaner-code-2loa (Links para um site externo.)
+Mês/ano: Fevereiro/2021
+
+Tecnologia: Angular
+Assunto: ngRx, Redux com Angular.
+TL;DR: Texto explicativo sobre as situações em que Stores, como do Redux, podem ser úteis e quando não.
+Link completo: https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/ (Links para um site externo.)
+Mês/Ano: Janeiro/2021
+
+Tecnologia: React
+Assunto: ReactType 6.0
+TL;DR: ReactType, uma ferramenta de prototipação arquitetural de React, chegou em sua versão 6
+Link completo: ReacType 6.0 - BrazilJS (Links para um site externo.)
+Mês/ano: Março/2021
+
+Tecnologia: React
+Assunto: Common mistakes in React.
+TL;DR: Alguns erros comuns cometidos por desenvolvedores de React. Como, por exemplo, usar React Hooks em Class Components ou até mesmo usar funções inline de forma incorreta, entre outros.
+Link completo:  (Links para um site externo.)(Links para um site externo.) (Links para um site externo.)
+Mês/ano: May/2021
+
+Tecnologia: React
+
+Assunto: Reaja às vulnerabilidades de segurança que você nunca deve ignorar.
+
+TL;DR: Este artigo descreve as vulnerabilidades do React e mostra maneiras para corrigi-las.
+
+Link completo: https://www.simform.com/react-security-vulnerabilities-solutions/ (Links para um site externo.)
+
+Mês/ano: Junho/2020
+
+Tecnologia Angular
+Assunto: Angular vs React: Feature Comparison
+TL;DR: Artigo demonstra um comparativo interessante de recursos dos dois frameworks
+Link: https://www.htmlgoodies.com/javascript/angular-vs-react-feature-comparison/
+
+Mês/Ano: Abril/2021
+
+Tecnologia: Vue
+
+Assunto: Vue.js para criação de site estático?
+
+TL;DR: A postagem mostra como criar um site estático com componentes e rotas geradas automaticamente pode ajudar bastante na manutenção e criação de novas páginas.
+
+Link completo: https://inside.contabilizei.com.br/vue-js-para-cria%C3%A7%C3%A3o-de-site-2ef5ef51865e 
+
+Mês/ano: Julho/2018
+
+Tecnologia: React
+Assunto: Recursos para React
+TL; DR: O post traz uma lista de 42 recursos para quem desenvolve usando React, desde livros até templates
+Link Completo: https://dev.to/suniljoshi19/top-42-react-resources-every-developer-should-bookmark-latest-24pb (Links para um site externo.) 
+Mês/Ano: Outubro/2020
+Tecnologia: React
+Assunto: O que é React e como funciona?
+TL;DR: Uma breve abordagem sobre o React para iniciantes, trazendo algumas informações de como usar, como funciona, suas vantagens.
+Link completo: https://www.hostinger.com.br/tutoriais/o-que-e-react-javascript (Links para um site externo.)
+Mês/ano: Maio/2019
+
+Tecnologia: Vue.js
+Assunto: Criar um front-end Vue.js .
+TL;DR: Tutorial onde é possível aprender como integrar o Vue.js com programação em Python.
+Link completo: https://developer.ibm.com/br/tutorials/cfc-starter-kit-speech-to-text-app-example/ (Links para um site externo.)
+Mês/ano: Março/2020
+
+Tecnologia: Angular
+Assunto: Why I Chose Angular Going Into 2021.
+TL;DR: Pontos positivos e negativos na escolha do Angular. Feito por Faisal Choura.
+Link completo: https://betterprogramming.pub/why-i-chose-angular-going-into-2020-7fa08c67099c (Links para um site externo.) 
+Mês/ano: Dec/2019
+
+Tecnologia: React
+Assunto: A ordem correta de se aprender React
+TL;DR: Um ponto de vista bem interessante de sobre como aprender React da forma "certa", tornando o aprendizado mais simples.
+Link completo: https://kentcdodds.com/blog/how-to-react
+
+Mês/ano: Setembro/2020
+
+Tecnologia: React
+
+Assunto:  Como publicar uma aplicação ReactJS na Heroku
+
+TL:DR : Tutorial Simples de como hospedar uma aplicação ReactJS na Heroku, gratuitamente
+
+Usando Node.js e Webpack burlando a dificuldade de não poder subir um site estático para a plataforma Heroku, feito por Luiz Duarte.
+
+Link completo:https://www.luiztools.com.br/post/como-publicar-aplicacao-reactjs-na-heroku/
+
+Mês/ano: 12/2020
+
+Tecnologia: Vue
+Assunto: Motivos para escolher o Vue e não outras tecnologias.
+TL;DR: Artigo que lista itens que mostram como o que é melhor em alguns aspectos versus outras tecnologias.
+Link completo: https://medium.com/front-end-weekly/why-choose-vue-js-over-any-other-frontend-framework-for-better-ui-16a8de5567d2
+
+Tecnologia: React
+Assunto: Por que usar Redux?
+TL;DR: Este tutorial passa por alguns conceitos da utilização do Redux, além de mostrar exemplos de sua utilização. Os itens abordados são: O que é Redux, Quando usar o Redux, O que é o gerenciamento de estados no Redux, Como o Redux funciona, Middleware do Redux e Por que usar Redux.
+Link completo: https://blog.logrocket.com/why-use-redux-reasons-with-clear-examples-d21bffd5835/ (Links para um site externo.)
+Mês/ano: Outubro/2020
+
+Tecnologia: React
+Assunto: Dicas e boas práticas com react.
+TL;DR: Tutorial bastante interessante com uma introdução de boas práticas para manter seu código mais coeso, além de exemplos de ferramentas para auxiliar o desenvolvedor
+Link completo: https://itforum.com.br/colunas/dialogar-para-avancar/
+Mês/ano: Março/2019
+
+Tecnologia: React
+Assunto: Versão React v17.0: Atualização sem novos recursos
+TL;DR: Na nova versão do React o foco principal está na migração entre versões, facilitando que as atualizações sejam feitas de maneira gradual ou tudo de uma vez.
+Link completo: https://www.mundojs.com.br/2020/09/02/versao-react-v17-0-atualizacao-sem-novos-recursos
+Mês/ano: Setembro/2020
+
+Tecnologia: Angular.
+Assunto: Novidades do Angular 11.
+TL; DR: O artigo traz algumas novidades sobre o Angular 11, destaque para o Build mais rápido, Atualização para TypeScript 4.0 dentre outras novidades.
+Link Completo: https://devporai.com.br/novidades-do-angular-11/
+Mês/Ano: Novembro/2020
+
+Tecnologia: React, Vue, Angular
+Assunto: Qual escolher?
+TL;DR: Eu ia escolher apenas uma tecnologia mas devido a minha dúvida entre elas e sabendo que outros alunos também possam ter essa mesma dúvida, eu preferi compartilhar esse artigo com todos. Esse artigo é muito bom, o mesmo faz uma comparação entre as três tecnologias, as diferenças, vantagens e desvantagens da utilização de cada uma delas. O autor consegue ser claro e objeto, algo que é muito valioso para iniciantes, assim como eu. 
+Link completo: https://robertoachar.dev/blog/react-hooks
+
+Tecnologia: Vue
+Assunto: Why You Should Learn Vue JS: Trends and Benefits
+TL;DR: Artigo comparando tendencias de desenvolvimento em Vue.js e algumas projeções sobre futuro de desenvolvimento com outros frameworks também. Ao final mostra uma lista de vantagens de se aprender vue.js.
+Link completo: https://hackernoon.com/why-you-should-learn-vue-js-trends-and-benefits-xa4k3425 (Links para um site externo.)
+Mês/ano: Dezembro/2020
+
+Tecnologia: React
+Assunto: React Hooks.
+TL;DR: Mudanças significativas do React 17.
+Link completo: https://pt-br.reactjs.org/blog/2020/10/20/react-v17.html (Links para um site externo.)
+Mês/ano: Outubro/2020
+
+Tecnologia: React
+Assunto: React Dialogs
+TL;DR: Tutorial bastante interessante demonstrando de forma abstrata como se criar containers de componentes para aplicar em diferentes partes do projeto, sem necessidade de copy/paste.
+Link completo: LINK (Links para um site externo.)
+Mês/ano: Março/2021
+
+Tecnologia: React
+Assunto: Introdução rápida ao NextJS
+TL;TD: O artigo faz uma introdução rápida ao NextJs, framework que utiliza o ReactJS como base, focando nas suas principais características, usos e benefícios.
+Link completo: https://tsh.io/blog/what-is-next-js-used-for/ (Links para um site externo.)  
+Mês/Ano: Março/2021
+
+Tecnologia: VueJS
+Assunto: Vue-Router.
+TL;DR: Para a maioria das Single Page Applications, é recomendado usar a biblioteca oficialmente suportada vue-router.
+Link completo: https://br.vuejs.org/v2/guide/routing.html
+Mês/Ano: Janeiro/2021
+
+Tecnologia: React
+Assunto: Benefício do desenvolvimento de aplicações usando o React.
+TL;DR: A notícia destaca os pontos importantes sobre o desenvolvimento utilizando o React, como a curva de aprendizado, agilidade, reutilização de código e também o tamanho da comunidade do framework, facilitando a troca de informação e o suporte aos desenvolvedores.
+Link completo: https://mitechnews.com/guest-columns/benefits-of-app-development-with-react-js/ (Links para um site externo.)
+Mês/ano: Abril/2021
+
+Tecnologia: React
+Assunto : O novo JSX Transform do React 17
+TL;DR:  Novidades sobre a nova feature JSX Transform e suas aplicações e implicações na forma atual de desenvolvimento com react.
+Link completo: https://www.treinaweb.com.br/blog/react-17-conheca-o-que-vai-mudar-no-jsx/#:~:text=O%20novo%20JSX%20Transform%20do%20React%2017&text=E%20o%20melhor%20de%20tudo,importa%C3%A7%C3%B5es%20n%C3%A3o%20usadas%20do%20React.
+Mês/ano: novembro 2020
+
+Tecnologia: React.
+Assunto: What a React developer needs to know in 2021
+TL; DR: O artigo traz algumas informações do que temos que aprender para trabalhar com react.
+Link Completo: https://www.infoworld.com/article/3584372/whats-new-in-angular-11.html (Links para um site externo.)
+Mês/Ano: 03/2021
+
+Tecnologia: Vue.js
+Assunto: Vue.js e suas bases.
+TL;DR: O artigo aborda os princípios de funcionamento do Vue.js de forma bem clara e intuitiva.
+Link Completo: https://imasters.com.br/front-end/vuejs-e-suas-bases-parte-01
+Mês/Ano: Maio/2019
+
+Tecnologia: React
+Assunto: React Router V5.1
+TL;DR: Artigo explicativo sobre o React Router na versão 5.1 com todos os recursos e melhorias realizadas.
+Link completo: https://reacttraining.com/blog/react-router-v5-1/
+Mês/ano: Setembro/2019
+
+Tecnologia: Vue.
+Assunto: Por que utilizar o Nuxt JS?
+TL; DR: O artigo mostra as principais formas de utilizar o Nuxt. O que achei mais interessantes nesse framework, são as mudanças que agilizaram o desenvolvimento, principalmente na criação de rotas, layouts, importação de componentes e middlewares.
+Link Completo: https://hcode.com.br/blog/por-que-utilizar-o-nuxt-js-conheca-esse-framework-para-criar-aplicaces-vue-js
+Mês/Ano: Agosto/2020
+
+Tecnologia: Vue
+Assunto: Vuex: padronizando o gerenciamento de estado da sua aplicação Vue.js.
+TL;DR: O artigo traz uma introdução sobre a utilização da biblioteca de gerenciamento de estados Vuex, muito utilizada para tratar da comunicação entre componentes em aplicações desenvolvidas com Vue.
+Link completo:  https://imasters.com.br/desenvolvimento/vuex-padronizando-o-gerenciamento-de-estado-da-sua-aplicacao-vue-js
+Mês/ano: Fevereiro/2019
+
+Tecnologia: React
+Assunto: Pagamentos com cartão de crédito com Stripe usando Spring Boot e ReactJS
+TL;DR: Cada vez mais as empresas estão utilizando o react, neste guia, é implementado a forma de pagamento Stripe, Spring Boot e React, um tutorial muito interessante.
+Link completo: https://senuravihanjayadeva.medium.com/credit-card-payments-with-stripe-using-spring-boot-and-reactjs-3e57a12418b7
+
+Tecnologia: Angular
+Assunto: Material Design com angular
+TL;DR: Tutorial introdutório à biblioteca Angular Material com demonstração bem prática de uso de componentes de Material Design.
+Link completo: https://www.devmedia.com.br/primeiros-passos-com-o-angular-material/40409
+Ano: 2019
+
+Tecnologia: Angular, React, Vue
+Assunto: Qual ferramenta escolher??
+TL;DR: Explorando as ferramentas para uma melhor performance
+Link completo: https://blog.geekhunter.com.br/react-vs-vue-vs-angular-qual-escolher/
+Mês/ano: 13/04/2020
+
+Tecnologia: Angular
+Assunto: Por que o Angular é um framework tão poderoso?
+TL;DR: A matéria inicia apresentando o Angular e suas funções, então encerrar dizendo a importância  de se aprender.
+Link completo: https://www.totvs.com/blog/developers/angular/ (Links para um site externo.)
+Mês/ano: Fevereiro/2020
+
+Tecnologia: Angular.
+
+Assunto:  jsPDF  jspdf-logo.svg
+
+TL;DR:  Trata-se de um ótimo pacote para utilizar no Angular de fácil instalação, para fins de geração de arquivos e relatório do tipo PDF, o que é muito necessário no mercado, sua documentação oficial é rica e inclusive possui exemplos on-line no seu site oficial: https://rawgit.com/MrRio/jsPDF/master/docs/, (Links para um site externo.) onde conseguimos gerar com pouco código tabelas, círculos, triângulos, imagens, textos com diversas formatações, bloquear arquivos com senha,  escolher fonte, criar formulários, posicionamento no arquivo nos eixos X e Y e dentre muitas outras opções. 
+
+ 
+
+Link completo: https://www.positronx.io/angular-pdf-tutorial-export-pdf-in-angular-with-jspdf/ (Links para um site externo.)
+
+ 
+
+Mês/ano: Março/2021
+
+Tecnologia: Vue.
+Assunto: O que mudou do Vue 2 para o Vue 3?
+TL; DR: O artigo traz algumas das principais mudanças que ocorreram entre o vue 2 e 3. As mudanças são demonstradas através de exemplos práticos que ajudam no entendimento.
+Link Completo: https://blog.cod3r.com.br/o-que-mudou-do-vue-2-para-o-vue-3/
+Mês/Ano: Janeiro/2021
+
+Tecnologia: Angular
+Assunto: Por que o Angular é um framework tão poderoso
+TL;DR: No geral fala sobre o Angular e os motivos pelo qual ele deve ser escolhido para produção da sua aplicação, também nos da alguma ideia de pq devemos aprende-lo e sobre o Angular Ivy que é um novo compilador. 
+Link completo: https://www.totvs.com/blog/developers/angular/
+Mês/ano: fevereiro/2020
+
+Tecnologia: React
+
+Assunto: Use de React Hooks descomplicado
+
+TL;DR : Tuorial que explica bem como acontece a implementação e uso de react Hooks. É uma das últimas tecnologias em React, trazendo mais legibilidade e curva de aprendizado. Por Diego Fernandes.
+
+Link Completo: https://blog.rocketseat.com.br/react-hooks/
+
+Mês/ano: maio/2019
+
+Tecnologia: React/Vue/Angular
+Assunto: React vs Vue vs Angular , qual escolher?
+TL;DR: Artigo que fala sobre cada tecnologia,  mostrando na opinião do autor, vantagens e desvantagens.
+Link completo: https://blog.geekhunter.com.br/react-vs-vue-vs-angular-qual-escolher/
+Mês/ano: Abril/2020
+
+Tecnologia: Angular
+Assunto: Angular: tudo sobre versões e releases
+TL;DR: Esta matéria explica sobre o versionamento do Angular e suas principais mudanças para cada versão.
+Link completo: https://www.zup.com.br/blog/angular-versoes-e-releases
+
+Tecnologia: Angular
+Assunto: Angular Features.
+TL;DR: Algumas das facilidades que Angular trás para ser um dos frameworks mais produtivos.
+Link completo: https://www.javatpoint.com/angular-7-features (Links para um site externo.)
+ 
+
+Mês/ano: Novembro/2020
+
+Tecnologia: Vue
+
+Assunto: Diretivas
+
+TL;DR: Mostra como funcionam a customização de diretivas utilizando Vue
+
+Link completo: https://dev.to/scmmishra/vue-outside-click-directive-g6n
+
+Mês/ano: Abril 2021
+
+Tecnologia: React Assunto: ReactJS para iniciantes — Começando um projeto do ZERO com create react app TL;DR: Passo-a-passo de como criar um app React do Zero Link completo:https://medium.com/@viniciusdacal/01-reactjs-para-iniciantes-come%C3%A7ando-um-projeto-do-zero-com-create-react-app-ad959730e9db Mês/ano: Maio/2020
+
+Tecnologia: Vue
+Assunto: Novidades Vue 3
+TL;DR: O Vue 3 disponibiliza uma nova API para criação de componentes que, apesar de não introduzir novos conceitos, expõe os principais recursos. Por exemplo, criação e observação dos estados reativos como funções independentes
+Link completo: https://robertoachar.dev/blog/react-hooks
+Mês/ano: Abril/2020
+
+Tecnologia: Angular
+Assunto: Integração de aplicações Angular com Java
+TL;DR: Existem diversas formas de construir uma aplicação Angular, como NodeJS, NGINX. Porém, para você que é apaixonado por Java como eu, deve conhecer um pouco mais sobre a integração dessas duas tecnologias, que parecem ter nascido uma para outra.
+Link completo: https://medium.com/bb-tutorials-and-thoughts/how-to-develop-and-build-angular-app-with-java-backend-87fb603c6e17
+Mês/ano: Abril/2020
+
+Tecnologia: Angular.
+Assunto: Entendendo RxJS Observable com Angular
+TL; DR: Após passar por um projeto com Angular 2(ou somente Angular, para os mais íntimos) posso dizer que: É um framework com muitas vantagens, e uma das coisas mais fascinantes que conheci foi uma biblioteca maravilhosa que é o RxJS(estude este cara e verá as maravilhas de um mundo moderno) e conheci este cara que mudou a minha vida, o famoso Observable.
+Link Completo: https://medium.com/tableless/entendendo-rxjs-observable-com-angular-6f607a9a6a00
+Mês/Ano: Janeiro/2017

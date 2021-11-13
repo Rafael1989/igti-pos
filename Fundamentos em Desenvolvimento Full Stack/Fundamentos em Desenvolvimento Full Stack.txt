@@ -1,0 +1,158 @@
+Assunto: Framework Javascript que enxuga webpages
+TL;DR: Svelte é um framework javascript que torna as páginas web mais rápidas de serem carregadas.
+Link completo: https://www.wired.com/story/javascript-framework-puts-web-pages-diet/
+Mês/ano: abril/2020.
+
+Assuntos: Novidades do Javascript.
+TL;DR: Este artigo apresenta algumas novidades do Javascript deste ano de 2020, principalmente sobre o uso com NodeJs com importação e exportação de módulos.
+Link completo: https://imasters.com.br/javascript/javascript-em-2020-o-que-esperar
+Mês/Ano: janeiro/2020
+
+Assunto: erros em JavaScript.
+TL;DR: este artigo descreve com exemplos de código, sete tipos de erros que o JavaScript pode emitir, como por exemplo: TypeError, SyntaxError e ReferenceError.
+Link completo: https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492 (Links para um site externo.)
+Mês/ano: fevereiro/2020.
+
+Assunto: Os 31 Melhores Frameworks e Bibliotecas JavaScript.
+TL;DR: Este artigo apresenta 31 framework e bibliotecas que facilitam e melhoram a utilização do Javascript 
+Link completo: https://terminalroot.com.br/2020/06/os-31-melhores-frameworks-e-bibliotecas-javascript.html 
+Mês/ano: Junho/2020.
+
+Assunto: Operador de coalescência nula (??).
+TL;DR: Este post exibe uma novidade do javascript que exibe um jeito para comparar variáveis com valores falsy como null e undefined.
+Link completo: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/operador_de_coalescencia_nula (Links para um site externo.)
+Mês/ano: maio/2020.
+
+Assunto: o por que do javascript ser a linguagem do futuro
+TL;DR: Este artigo mostra  como a linguagem javascript é poderosa e o por que ela tem tudo para se tornar a linguagem de programação do futuro. Conta também algumas tarefas do mecanismo javascript V8.
+Link completo: https://cibersistemas.pt/tecnologia/por-que-o-javascript-sera-a-linguagem-do-futuro/https://www.wired.com/story/javascript-framework-puts-web-pages-diet/
+Mês/ano: abril/2020.
+
+Assunto:10 Dicas para se Tornar Ninja em JavaScript!
+TL;DR: Este artigo é muito Top, já li varias vezes, são 10 dicas essenciais para nós que querendo ser melhores desenvolvedores JS. Muitas vezes ficamos ansiosos para aprender logo Node, os Framework e todo ecossistema JS e negligenciamos a base que é o  Vanilla JS. Um excelente RoadMap para nós Devs. Vale a pena a leitura.
+Link completo: https://medium.com/womakerscode/10-dicas-para-se-tornar-ninja-em-javascript-31a963ad17a1 (Links para um site externo.)
+Mês/ano: fev/2019.
+
+Assunto: O que o programador JavaScript deve saber
+
+TL;DR: Este artigo discorre sobre as habilidades mais requisitadas para o Desenvolvedor JavaScript, de acordo termos que foram mencionados com mais frequência em especificações de trabalho.
+
+Link completo: https://www.mundojs.com.br/2019/06/22/o-que-o-programador-javascript-deve-saber/
+
+Mês/ano: Junho/ 2019
+
+Assunto: Como é trabalhar como Full-Stack Developer
+TL;DR: Este post fala como é trabalhar como Full-Stack Developer, trazendo o relato da profissional Júlia Rizza, JavaScript Developer, sobre como ingressou na área, experiências profissionais, skills recomendados, desafios e recompensas.
+Link completo: https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-javascript-developer-por-j%C3%BAlia-rizza-c46d8841b997 (Links para um site externo.)
+Mês/ano: abril/2017.
+
+Assunto: Comparação em aplicações reais dos principais frameworks Javascript de 2020.
+TL;DR: Este artigo realiza várias comparações, como performance, carregamento, linhas de código entre os principais frameworks existentes, em 'aplicações reais', ou seja, uma aplicação que se conecta a um servidor, autentica e permite que os usuários façam CRUD, exatamente como no mundo real seria realizado.
+Link completo: https://medium.com/dailyjs/a-realworld-comparison-of-front-end-frameworks-2020-4e50655fe4c1 (Links para um site externo.)
+Mês/ano: março/2020.
+
+Assunto: Entendendo Falsy e Truthy no JavaScript.
+TL;DR: Entender esses dois conceitos é essencial para devs JavaScript. São bastante utilizados no Back-end e Front-end da Aplicação..
+Link completo: https://blog.rocketseat.com.br/entendendo-falsy-e-truthy-no-javascript/ 
+Mês/ano: outubro/2020.
+
+Assunto: Dicas de como aprender JavaScript.
+TL;DR: o artigo foi traduzido do original You're learning JS wrong e mostra como é importante estarmos envolvidos diretamente com os problemas que precisam ser solucionados através da linguagem, também, como os desafios e exercícios podem ser eficazes no processo de aprendizagem. 
+Link completo: https://www.codigofonte.com.br/artigos/voce-esta-aprendendo-javascript-errado
+Mês/ano: Maio/2020.
+
+Assunto: 5(cinco) habilidades que você deve saber como um desenvolvedor JavaScript.
+
+TL;DR: Este artigo trata sobre as 5(cinco) habilidades com grande demanda  e que os empregadores estão buscandos em Desenvolvedor JavaScript.
+
+ top 5 skills that are in very high demand and employers are actively looking in developers
+
+Link completo: https://medium.com/javascript-in-plain-english/5-skills-you-need-as-a-javascript-developer-in-2020-2021-c498731f3987
+
+Mês/ano: Agosto/2020
+
+Assunto: 4 ferramentas JavaScript para limpar seu código sujo
+TL;DR: O artigo apresenta algumas das ferramentas JavaScript mais populares que fornecem suporte para limpar código, problemas de compatibilidade e desempenho.
+Link completo: https://thenextweb.com/syndication/2020/12/01/4-javascript-tools-to-clean-up-your-dirty-code/ (Links para um site externo.)
+Mês/ano: Novembro/2020.
+
+Assunto: Testes de performance em JavaScript
+TL;DR: Este artigo mostra como testar a performance do JavaScript com  console.time(), console.timeEnd(), performance.now() e fala da ferramenta jsben.
+Link completo: https://www.treinaweb.com.br/blog/testes-de-performance-javascript/
+Mês/ano: Setembro/2020.
+
+Assunto: Discas para iniciantes em Javascript
+TL;DR: Neste artigo encontramos dicas fundamentais para quem está iniciando na linguagem, dicas que vão desde tipo de dados a orientação a objetos.
+Link completo: https://serfrontend.com/blog/5-dicas-para-iniciantes-em-programacao-com-Javascript/index.html (Links para um site externo.)
+Mês/ano: outubro/2020.
+
+Assunto: Jogos em javascript: como criar e quais as 4 recriações lendárias?.
+TL;DR: este artigo trata do desenvolvimento de jogos utilizando javascript, discorrendo sobre suas vantagens e citando exemplos.
+Link completo: https://blog.betrybe.com/tecnologia/jogos-em-javascript
+Mês/ano: maio/2020.
+
+Assunto: Curiosidades sobre funções no JavaScript
+TL;DR:  Demonstra algumas curiosidades sobre as funções no javascript de forma descontraída e super didático, podendo ser acompanhado do console do navegador para ir validando passo a passo.
+Link completo: https://medium.com/@brenndafarinha/5-curiosidades-sobre-fun%C3%A7%C3%B5es-em-javascript-d65d1ae2c11b (Links para um site externo.)
+Mês/ano: julho/2019.
+
+Assunto: 10 truques de Array/Objetos em JavaScript.
+TL;DR: este artigo demonstra com exemplos, 10 dicas importantes que facilitam o uso e manipulação de arrays/objetos em JavaScript.
+Link completo: https://medium.com/javascript-in-plain-english/10-tricks-on-arrays-and-objects-a67e286bfe80 (Links para um site externo.)
+Mês/ano: novembro/2020.
+
+Assunto: JavaScript orientado a objetos
+
+TL;TD: este conteúdo traz uma abordagem simples e pratica do JavaScritp orientado a objeto para iniciantes, trazendo exemplos simples e de fácil compreensão. 
+
+Link completo: https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript/Objetos/Object-oriented_JS
+
+Mes/ano: Abril/2020
+
+Assunto: ES11 - Novas features do JavaScript.
+TL;DR:  Este artigo traz as novidades do ES11 (ECMAScript 2020) como String.matchAll(), Dynamic Import, Promise.allSettled(), BigInt e outras novidades da linguagem.
+Link completo: https://blog.rocketseat.com.br/es11-novas-features-do-javascript/
+Mês/ano: Setembro/2020
+
+Assunto: JAVASCRIPT: UMA LINGUAGEM DE ALTO NÍVEL PARA DESENVOLVIMENTO WEB.
+TL;DR: este artigo fala dos três opções atuais frameworks  que estão fazendo sucesso no mercado e vale a pena estudar/conhecer .
+Link completo: https://kbase.com.br/2019/05/07/javascript-uma-linguagem-de-alto-nivel/
+Mês/ano: maio/2019.
+
+Assunto: A segunda geração de frameworks e bibliotecas JavaScript: para além do Angular, React e Vue!
+
+TL;DR: O autor faz uma breve análise da evolução dos frameworks javascripts, seus problemas e vantagens. Aponta um caminho para não sucumbir neste mundo repleto de novidades.
+
+Link completo: https://www.infoq.com/br/news/2020/07/second-generation-js-frameworks/ (Links para um site externo.)
+
+Mês/ano: julho/2020.
+
+Assunto: Conheça o Deno outro interpretador de JavaScript.
+TL;RD: Deno será o provável substituto do Node.js que foi criado em 2009, e na época o JavaScript nem tinha Promises ou async/await, também não tinha smartphones e YouTubers como nos dias atuais e o projeto Deno veio pensando nas necessidade recentes e tentar eliminar os problemas do Node.js.
+Link completo: https://www.treinaweb.com.br/blog/deno-conheca-o-suposto-substituto-do-node-js/
+Mês/ano: Maio/2020
+
+Assunto: Novidades JavaScript ES 11
+TL;DR: Novas features Javascript para 2020/2021 String.matchAll(), Dynamic Import, BigInt, Promise.allSettled(), globalThis, for-in mechanics, Optional Chaining, Nullish coalescing, import.meta
+Link completo: https://blog.rocketseat.com.br/es11-novas-features-do-javascript/ 
+Mês/ano: setembro/2020.
+
+Assunto: JavaScript Hoje e o Futuro
+TL;DR: Esse artigo nos mostra como estará o futuro do Javascript  em relação à outras linguagens de programação.
+Link completo: https://sempreupdate.com.br/javascript-hoje-e-o-futuro/
+Mês/ano: dezembro/2020.
+
+Assunto: Javascript é a linguagem do momento.
+TL;DR: Javascript é a linguagem mais utilizada em todo o mundo. E a principal questão que estamos vivendo é: o mundo está em alto desenvolvimento em tecnologia e o mundo da programação tem efeito direto nesta evolução.
+Link completo: https://sempreupdate.com.br/javascript-hoje-e-o-futuro/
+Mês/ano: Dezembro/2020.
+
+Assunto: JavaScript lidera ranking de linguagens
+TL;DR: este artigo desmonstra o ranking de uso das linguagens de programação.
+Link completo: https://www.mundojs.com.br/2020/04/22/javascript-lidera-ranking-de-linguagens/
+Mês/ano: abril/2020.
+
+Assunto: Ferramentas JavaScript úteis para desenvolvedores da Web
+2. TL;TD: Este artigo trás algumas ferramentas e bibliotecas que são úteis e contribuem para o desenvolvimento Web, visando sua otimização.
+3. Link:  https://ecommerce-platforms.com/pt/articles/useful-javascript-tools-for-web-developers (Links para um site externo.) 
+4. Fevereiro/2019
